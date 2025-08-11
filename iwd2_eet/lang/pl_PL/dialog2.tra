@@ -21,17 +21,19 @@ Waga: 0~
 
 PARAMETRY:
 
-Specjalne:
-- Przywołanie wilka x 3
+Właściwości ładunków: 
+- Przyzwanie wilka
+Zasięg: 6 metrów
+Czas działania: 8 rund
 
 Waga: 1~
 @541   = ~Braehg to wstrętna mieszanina krwi dzika, szczypty rzadkich ziół oraz mleka. Natychmiastowe wypicie całej buteleczki tej mikstury powoduje znaczny przypływ siły... ale w większości przypadków powoduje również mdłości.
 
 PARAMETRY:
 
-Slow poison when imbibed
-Strength: +2
-Duration: 3 hours
+Spowolnienie trucizny po wypiciu
+Siła: +2
+Czas działania: 3 godziny
 
 Waga: 1~
 @571   = ~Szkło, z którego wykonano tę buteleczkę, jest tak przezroczyste, że zdaje się ona być prawie niewidzialna, wręcz ulotna. Korek buteleczki zdaje się być wtopiony w samo szkło, a wnętrze wypełnia unoszący się mglisty płyn.
@@ -49,16 +51,19 @@ Waga: 0~
 
 PARAMETRY:
 
-Special:
-- Can cast Grease
+Właściwości ładunków:
+– Śliskość
+Zasięg: 30 metrów
+Czas działania: 1 runda
+Obszar działania: w promieniu 10 metrów
 
 Waga: 1~
 @607   = ~Ten sztylet o perłowej rękojeści został wykuty przez mistrzynię zaklinania Elytharrę i służył jako ochrona przeciwko częstym najazdom goblinów, które nękały Dolinę Lodowego Wichru. Z wyglądu przypomina bardziej dobry nóż myśliwski, niż broń wojenną. Mimo to jego ostra klinga jest wyjątkowo skuteczna przeciwko goblinom. Elytharra twierdzi, że użyła tego sztyletu tylko kilka razy.
 
 PARAMETRY:
 
-Obrażenia: 1k4, +2 vs. Goblins
-TraK0: +2 vs. Goblins
+Obrażenia: 1k4, +2 przeciwko goblinom
+TraK0: +2 przeciwko goblinom
 Typ obrażeń: kłute
 Opóźnienie: 2
 Rodzaj biegłości: sztylet
@@ -71,14 +76,13 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1k4 +1, +2 vs. Spectral Undead
-TraK0: +1, +2 vs. Spectral Undead
+Specjalne:
+- 5% szans na zadanie 1 obrażenia od magii użytkownikowi, po trafieniu
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Obrażenia: 1k4 +1, +2 przeciwko widmowym nieumarłym
+TraK0: +1, +2 przeciwko widmowym nieumarłym
 Typ obrażeń: kłute
-
-Special:
-  5% chance for an additional 1 point of magic damage when hitting the target
-  Cursed
-
 Opóźnienie: 1
 Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
@@ -90,13 +94,12 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1k4 +1, +2 vs. Spectral Undead
-TraK0: +1, +2 vs. Spectral Undead
+Specjalne:
+- 5% szans na zadanie dodatkowego 1 obrażenia od magii, po trafieniu
+
+Obrażenia: 1k4 +1, +2 przeciwko widmowym nieumarłym
+TraK0: +1, +2 przeciwko widmowym nieumarłym
 Typ obrażeń: kłute
-
-Special:
-  5% chance for an additional 1 point of magic damage when target is hit
-
 Opóźnienie: 1
 Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
@@ -136,14 +139,13 @@ Ten krótki miecz to broń zła. Mówi się, że przez lata spowodowała wiele p
 
 PARAMETRY:
 
-Obrażenia: 1k6 + 1, +2 vs. Good Creatures
-TraK0: +1, +2 vs. Good Creatures
+Specjalne:
+– 10% szans, że cel zostanie zatruty, otrzymując 2 obrażenia od trucizny na sekundę przez dwie rundy, po trafieniu (bez rzutu obronnego)
+– Rzuty obronne: -1 przeciw śmierci
+  
+Obrażenia: 1k6 + 1, +2 przeciw istotom o charakterze dobrym
+TraK0: +1, +2 przeciw istotom o charakterze dobrym
 Typ obrażeń: sieczne
-
-Special:
-  10% Chance of Poisoning Target
-  -1 Penalty to Fortitude save When Held
- 
 Opóźnienie: 2
 Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
