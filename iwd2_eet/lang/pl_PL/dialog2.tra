@@ -21,7 +21,8 @@ Waga: 0~
 
 PARAMETRY:
 
-Przywołanie wilka x 3
+Specjalne:
+- Przywołanie wilka x 3
 
 Waga: 1~
 @541   = ~Braehg to wstrętna mieszanina krwi dzika, szczypty rzadkich ziół oraz mleka. Natychmiastowe wypicie całej buteleczki tej mikstury powoduje znaczny przypływ siły... ale w większości przypadków powoduje również mdłości.
@@ -56,11 +57,11 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4, +2 vs. Goblins
+Obrażenia: 1k4, +2 vs. Goblins
 TraK0: +2 vs. Goblins
 Typ obrażeń: kłute
 Opóźnienie: 2
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -70,7 +71,7 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1, +2 vs. Spectral Undead
+Obrażenia: 1k4 +1, +2 vs. Spectral Undead
 TraK0: +1, +2 vs. Spectral Undead
 Typ obrażeń: kłute
 
@@ -79,7 +80,7 @@ Special:
   Cursed
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -89,7 +90,7 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1, +2 vs. Spectral Undead
+Obrażenia: 1k4 +1, +2 vs. Spectral Undead
 TraK0: +1, +2 vs. Spectral Undead
 Typ obrażeń: kłute
 
@@ -97,7 +98,7 @@ Special:
   5% chance for an additional 1 point of magic damage when target is hit
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -107,10 +108,10 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1 
 Typ obrażeń: kłute
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 
 Waga: 2~
@@ -135,7 +136,7 @@ Ten krótki miecz to broń zła. Mówi się, że przez lata spowodowała wiele p
 
 PARAMETRY:
 
-Obrażenia: 1d6 + 1, +2 vs. Good Creatures
+Obrażenia: 1k6 + 1, +2 vs. Good Creatures
 TraK0: +1, +2 vs. Good Creatures
 Typ obrażeń: sieczne
 
@@ -144,7 +145,7 @@ Special:
   -1 Penalty to Fortitude save When Held
  
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -158,7 +159,7 @@ Sztylet ten należał niegdyś do Presio, kapłanki Talony, bogini choroby i tru
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -166,7 +167,7 @@ Special:
   Poison: 5 damage in 30 seconds (save vs. death for none)
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 
 Waga: 2~
@@ -177,71 +178,71 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +4
+Obrażenia: 1k6 +4
 TraK0: +4
 Typ obrażeń: pocisk
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @1027  = ~Przy tworzeniu tych strzał najwyraźniej użyto magii. Wyglądają na nieco bardziej proste od zwykłych i sprawiają wrażenie żywych, gdy wystrzelone z zabójczą celnością zbliżają się do celu.
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: pocisk
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @1039  = ~Pociski zwane bełtami stanowią amunicję dla dowolnej wielkości kuszy. Jednakże, ten pocisk został nasączony magiczną energią, która powoduje, że jego lot jest pewniejszy. Zupełnie, jakby bełt sam namierzał się na cel.
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5
 Typ obrażeń: pocisk
-Proficiency Type: Crossbow
+Wyrzutnia: kusza
 
 Waga: 0~
 @1041  = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, że wydaje się on lepiej wyważony i lżejszy, gdy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +3
 Typ obrażeń: pocisk
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @1043  = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, że wydaje się on lepiej wyważony i lżejszy, gdy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +4
+Obrażenia: 1k4 +4
 TraK0: +4
 Typ obrażeń: pocisk
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @1045  = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, że wydaje się on lepiej wyważony i lżejszy, gdy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +5
+Obrażenia: 1k4 +5
 TraK0: +5
 Typ obrażeń: pocisk
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @1054  = ~Strzałka jest małą, łatwą do ukrycia bronią strzelecką, którą rzuca się, zamiast wystrzeliwać ją z łuku lub innego typu broni. Jej trzonek został opatrznie naznaczony wersami mocy.
 
 PARAMETRY:
 
-Obrażenia: 1d3 +2
+Obrażenia: 1k3 +2
 TraK0: +2
 Typ obrażeń: pocisk
 Opóźnienie: 0
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -249,11 +250,11 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +3
 Typ obrażeń: pocisk
 Opóźnienie: 0
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -261,11 +262,11 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3 +4
+Obrażenia: 1k3 +4
 TraK0: +4
 Typ obrażeń: pocisk
 Opóźnienie: 0
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -273,11 +274,11 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3 +5
+Obrażenia: 1k3 +5
 TraK0: +5
 Typ obrażeń: pocisk
 Opóźnienie: 0
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -285,10 +286,10 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3 
 Typ obrażeń: sieczne
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 
 Waga: 7~
@@ -296,11 +297,11 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +4
+Obrażenia: 1k8 +4
 TraK0: +4
 Typ obrażeń: sieczne
 Opóźnienie: 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -310,11 +311,11 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Opóźnienie: 2
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -324,11 +325,11 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: sieczne
 Opóźnienie: 8
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -338,11 +339,11 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +2
+Obrażenia: 1k10 +2
 TraK0: +2
 Typ obrażeń: sieczne
 Opóźnienie: 7
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -352,11 +353,11 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +3
+Obrażenia: 1k10 +3
 TraK0: +3
 Typ obrażeń: sieczne
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -366,11 +367,11 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +4
+Obrażenia: 1k10 +4
 TraK0: +4
 Typ obrażeń: sieczne
 Opóźnienie: 5
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -380,11 +381,11 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +5
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Opóźnienie: 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -394,10 +395,10 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3 
 Typ obrażeń: obuchowe
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 
 Waga: 5~
@@ -405,11 +406,11 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +4
+Obrażenia: 1k6 +4
 TraK0: +4 
 Typ obrażeń: obuchowe
 Opóźnienie: 3
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -419,11 +420,11 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 Opóźnienie: 2
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -433,10 +434,10 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: kłute
 Opóźnienie: 2
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 
 Waga: 1~
@@ -444,7 +445,7 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +2
 Typ obrażeń: kłute
 
@@ -452,7 +453,7 @@ Special:
 - Target is poisoned when struck (Save vs. Death none)
 
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 
 Waga: 1~
@@ -469,11 +470,11 @@ Waga: 6~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +4
+Obrażenia: 2k4 +4
 TraK0: +4
 Typ obrażeń: obuchowe
 Opóźnienie: 3
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -483,11 +484,11 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +5
+Obrażenia: 2k4 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 Opóźnienie: 2
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -497,11 +498,11 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +4
+Obrażenia: 1k4 +4
 TraK0: +4
 Typ obrażeń: kłute
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -511,11 +512,11 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +5
+Obrażenia: 1k4 +5
 TraK0: +5
 Typ obrażeń: kłute
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -525,11 +526,11 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +5
+Obrażenia: 1k4 +5
 TraK0: +4
 Typ obrażeń: obuchowe
 Opóźnienie: 0
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -539,11 +540,11 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +6
+Obrażenia: 1k4 +6
 TraK0: +5
 Typ obrażeń: obuchowe
 Opóźnienie: 0
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -553,11 +554,11 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +4
+Obrażenia: 1k10 +4
 TraK0: +4
 Typ obrażeń: kłute
 Opóźnienie: 5
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -567,11 +568,11 @@ Waga: 14~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +5
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: kłute
 Opóźnienie: 4
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -581,11 +582,11 @@ Waga: 14~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +4
+Obrażenia: 1k6 +4
 TraK0: +4
 Typ obrażeń: kłute
 Opóźnienie: 2
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -595,11 +596,11 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: kłute
 Opóźnienie: 1
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -609,10 +610,10 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2 
 Typ obrażeń: obuchowe
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 
 Waga: 4~
@@ -620,11 +621,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 Opóźnienie: 1
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -634,11 +635,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +4
+Obrażenia: 1k6 +4
 TraK0: +4
 Typ obrażeń: obuchowe
 Opóźnienie: 1
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -648,11 +649,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 Opóźnienie: 1
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -665,7 +666,7 @@ PARAMETRY:
 Obrażenia: +6 (Missile)
 TraK0: +5 
 Opóźnienie: 3
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 15
@@ -678,7 +679,7 @@ PARAMETRY:
 Obrażenia: +7 (Missile)
 TraK0: +6 
 Opóźnienie: 2
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 15
@@ -691,7 +692,7 @@ PARAMETRY:
 Obrażenia: +4 (Missile)
 TraK0: +5 
 Opóźnienie: 3
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -704,7 +705,7 @@ PARAMETRY:
 Obrażenia: +5 (Missile)
 TraK0: +6 
 Opóźnienie: 2
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -717,7 +718,7 @@ PARAMETRY:
 Obrażenia: +4 (Missile)
 TraK0: +4 
 Opóźnienie: 2
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -730,7 +731,7 @@ PARAMETRY:
 Obrażenia: +5 (Missile)
 TraK0: +5 
 Opóźnienie: 1
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -742,7 +743,7 @@ PARAMETRY:
 
 Obrażenia: +5 (Missile)
 TraK0: +5 
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 
 Waga: 9~
@@ -753,7 +754,7 @@ PARAMETRY:
 Obrażenia: +6 (Missile)
 TraK0: +4
 Opóźnienie: 6
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -766,7 +767,7 @@ PARAMETRY:
 Obrażenia: +7 (Missile)
 TraK0: +5 
 Opóźnienie: 5
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -779,7 +780,7 @@ PARAMETRY:
 Obrażenia: +4 (Missile)
 TraK0: +4
 Opóźnienie: 1
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -792,7 +793,7 @@ PARAMETRY:
 Obrażenia: +5 (Missile)
 TraK0: +5
 Opóźnienie: 1
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -804,7 +805,7 @@ PARAMETRY:
 
 Obrażenia: +2 (Missile)
 TraK0: +2 
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -814,7 +815,7 @@ PARAMETRY:
 
 Obrażenia: +3 (Missile)
 TraK0: +3 
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -825,7 +826,7 @@ PARAMETRY:
 Obrażenia: +4 (Missile)
 TraK0: +4 
 Opóźnienie: 2
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -838,7 +839,7 @@ PARAMETRY:
 Obrażenia: +5 (Missile)
 TraK0: +5 
 Opóźnienie: 1
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -848,11 +849,11 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +4
+Obrażenia: 2k4 +4
 TraK0: +4
 Typ obrażeń: sieczne
 Opóźnienie: 4
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -862,11 +863,11 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +5
+Obrażenia: 2k4 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Opóźnienie: 3
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -876,10 +877,10 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1 
 Typ obrażeń: sieczne
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 
 Waga: 4~
@@ -887,10 +888,10 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2 
 Typ obrażeń: sieczne
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 
 Waga: 4~
@@ -898,10 +899,10 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3 
 Typ obrażeń: sieczne
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 
 Waga: 4~
@@ -909,11 +910,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +4
+Obrażenia: 1k8 +4
 TraK0: +4
 Typ obrażeń: sieczne
 Opóźnienie: 1
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -923,11 +924,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Opóźnienie: 0
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -937,10 +938,10 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3 
 Typ obrażeń: sieczne
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 
 Waga: 4~
@@ -948,11 +949,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +4
+Obrażenia: 1k8 +4
 TraK0: +4
 Typ obrażeń: sieczne
 Opóźnienie: 1
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -962,11 +963,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Opóźnienie: 0
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -976,10 +977,10 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3 
 Typ obrażeń: kłute
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -989,12 +990,12 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +4
+Obrażenia: 1k6 +4
 TraK0: +4
 Typ obrażeń: kłute
 Waga: 3
 Opóźnienie: 0
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna 
 Wymagania:
 – Siła: 5
@@ -1004,11 +1005,11 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: kłute
 Opóźnienie: 0
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna 
 Wymagania:
 – Siła: 5
@@ -1018,10 +1019,10 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 2d6 +2
+Obrażenia: 2k6 +2
 TraK0: +2 
 Typ obrażeń: sieczne
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 
 Waga: 12~
@@ -1029,10 +1030,10 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 2d12 +3
+Obrażenia: 2k12 +3
 TraK0: +3 
 Typ obrażeń: sieczne
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 
 Waga: 12~
@@ -1040,11 +1041,11 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +4
+Obrażenia: 1k10 +4
 TraK0: +4
 Typ obrażeń: sieczne
 Opóźnienie: 6
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -1054,11 +1055,11 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +5
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 Opóźnienie: 5
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -1068,10 +1069,10 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2 
 Typ obrażeń: obuchowe
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -1081,10 +1082,10 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3 
 Typ obrażeń: obuchowe
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -1094,11 +1095,11 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +4
+Obrażenia: 1k6 +4
 TraK0: +4
 Typ obrażeń: obuchowe
 Opóźnienie: 3
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -1108,11 +1109,11 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 Opóźnienie: 2
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -1125,12 +1126,12 @@ Ze względu na swoją naturę, tym mieczem nie można atakować z zaskoczenia.
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: magiczne
 Special: Double damage to undead
 Opóźnienie: 0
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 
 Waga: 2~
@@ -1141,11 +1142,11 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 TraK0: +1
 Typ obrażeń: pocisk
 Opóźnienie: 2
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -1153,14 +1154,14 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 Typ obrażeń: pocisk
 
 Special:
-- Corrosion: +1d6 acid damage
+- Corrosion: +1k6 acid damage
 
 Opóźnienie: 2
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -1168,15 +1169,15 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 Typ obrażeń: pocisk
 
 Special:
-- Flaming Burst: +1d6 fire damage and 10% chance of +1d10 extra fire damage
+- Flaming Burst: +1k6 fire damage and 10% chance of +1k10 extra fire damage
 - Keen: Increased chance of scoring a critical hit on target
 
 Opóźnienie: 1
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -1184,7 +1185,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3 +5
+Obrażenia: 1k3 +5
 TraK0: +5
 Typ obrażeń: pocisk
 
@@ -1192,7 +1193,7 @@ Special:
 - Flame: +2d6 fire damage
 
 Opóźnienie: 0
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -1200,7 +1201,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
@@ -1208,7 +1209,7 @@ Special:
 
 Waga: 7
 Opóźnienie: 5
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -1218,18 +1219,18 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
 
 Special:
 - Returning: Returns to user's hand once thrown
-- Shocking Burst:  +1d6 electrical damage and 10% chance of +1d10 extra electrical damage
+- Shocking Burst:  +1k6 electrical damage and 10% chance of +1k10 extra electrical damage
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Speed Factor (Melee): 4
 Speed Factor (Thrown): 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -1239,15 +1240,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d12
+Obrażenia: 1k12
 Typ obrażeń: sieczne
 
 Special:
-- Flaming Burst: +2d6 fire damage and 10% chance of +1d10 extra fire damage
-- Vampiric: 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Flaming Burst: +2d6 fire damage and 10% chance of +1k10 extra fire damage
+- Vampiric: 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 18
@@ -1257,14 +1258,14 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5 
 Typ obrażeń: sieczne
 
 Special:
 - Armor Bonus: +3
 
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 
 Waga: 7~
@@ -1275,11 +1276,11 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 TraK0: +1
 Typ obrażeń: sieczne
 Opóźnienie: 9
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -1289,13 +1290,13 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
 Speed Factor (Melee): 5
 Speed Factor (Thrown): 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -1305,11 +1306,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1
 Typ obrażeń: obuchowe
 Opóźnienie: 7
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -1319,14 +1320,14 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Frost: 50% chance of +1d6 cold damage
+- Frost: 50% chance of +1k6 cold damage
 
 Opóźnienie: 4
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -1336,15 +1337,15 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
 Special:
-- Corrosion: +1d6 acid damage
+- Corrosion: +1k6 acid damage
 
 Opóźnienie: 2
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -1354,7 +1355,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -1363,7 +1364,7 @@ Special:
 - Wisdom: +1
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -1373,11 +1374,11 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 Opóźnienie: 1
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -1387,7 +1388,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
@@ -1396,7 +1397,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 2
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -1406,16 +1407,16 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Flaming Burst: +1d6 fire damage and 10% chance of +1d10 extra fire damage
+- Flaming Burst: +1k6 fire damage and 10% chance of +1k10 extra fire damage
 - Disruption: All undead and outsiders hit by weapon must make a Fortitude save or be destroyed
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 6
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -1425,7 +1426,7 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
@@ -1434,7 +1435,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 6
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -1444,17 +1445,17 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Flame: +1d6 fire damage
-- Frost: +1d6 cold damage
-- Shock: +1d6 electric damage
+- Flame: +1k6 fire damage
+- Frost: +1k6 cold damage
+- Shock: +1k6 electric damage
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 2
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -1464,14 +1465,14 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 
 Special:
-- Shocking Burst: +1d6 electrical damage and 10% chance of +1d10 extra electrical damage
+- Shocking Burst: +1k6 electrical damage and 10% chance of +1k10 extra electrical damage
 
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 
 Waga: 3~
@@ -1479,14 +1480,14 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: obuchowe
 
 Special:
 - Spell Power: Casts Magic Circle Against Evil 2/day
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 
 Waga: 12~
@@ -1496,14 +1497,14 @@ Przez kilkadziesiąt następnych lat wojownicy i złodzieje z całego Księżyco
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
 Special:
   +1 to Intelligence
 
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 
 Waga: 5~
@@ -1511,27 +1512,27 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1
 Typ obrażeń: pocisk
-Proficiency Type: Crossbow
+Wyrzutnia: kusza
 
 Waga: 0~
 @2547  = ~Korbacz składa się z solidnego, drewnianego trzonka z doczepionym żelaznym drągiem, drewnianym prętem nabijanym kolcami, bądź kolczastą, żelazną kulą. Elementy te połączone są łańcuchem albo mocnym rzemieniem. Broń została wzbogacona magią, skutecznie formując więź między sobą a użytkownikiem.
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 
 Special:
-- Flame: +1d6 fire damage
-- Frost: +1d6 cold damage
+- Flame: +1k6 fire damage
+- Frost: +1k6 cold damage
 - Wounding: Inflicts 1 additional point of damge per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 2
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -1541,15 +1542,15 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: obuchowe
 
 Special:
 - Stunning: Fortitude save or target is stunned for 1/2 combat round
-- Frost Burst: +1d6 cold damage and 10% chance of +1d10 extra cold damage
+- Frost Burst: +1k6 cold damage and 10% chance of +1k10 extra cold damage
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 
 Waga: 12~
@@ -1557,7 +1558,7 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
@@ -1565,7 +1566,7 @@ Special:
 - Resistance: 5/- Magic Resistance
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 
 Waga: 3~
@@ -1573,10 +1574,10 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1 
 Typ obrażeń: obuchowe
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 
 Waga: 3~
@@ -1584,13 +1585,13 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: kłute
 
 Special:
 - Venom: +2 points of poison damage every second for 6 seconds, Fortitude save for none
 
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 
 Waga: 1~
@@ -1598,15 +1599,15 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: kłute
 
 Special:
-- Vampiric: 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -1616,7 +1617,7 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 + 1
+Obrażenia: 1k4 + 1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -1624,7 +1625,7 @@ Special:
 - Spell Power: Can cast Blur 2/day
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna	 
 Wymagania:
 – Siła: 3
@@ -1634,7 +1635,7 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +3
 Typ obrażeń: kłute
 
@@ -1642,7 +1643,7 @@ Special:
 - Shadowed: +40 to Hide skill
 
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -1652,14 +1653,14 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 Typ obrażeń: obuchowe
 
 Special:
-- Shock: 50% chance of +1d6 electrical damage
+- Shock: 50% chance of +1k6 electrical damage
 
 Opóźnienie: 4
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -1669,15 +1670,15 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Flame: 50% chance of +1d6 fire damage
+- Flame: 50% chance of +1k6 fire damage
 
 Opóźnienie: 3
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -1687,11 +1688,11 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 Opóźnienie: 2
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -1701,15 +1702,15 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 Typ obrażeń: obuchowe
 
 Special:
-- Corrosive Burst: +1d6 acid damage and 10% chance of +1d10 extra acid damage
+- Corrosive Burst: +1k6 acid damage and 10% chance of +1k10 extra acid damage
 - Resistance: +10 Magic Resistance
 
 Opóźnienie: 4
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -1719,7 +1720,7 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -1727,7 +1728,7 @@ Special:
 - Spell Power: Can cast spell Draw Upon Holy Might 2/day
 
 Opóźnienie: 2
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -1737,15 +1738,15 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +6
+Obrażenia: 2k4 +6
 TraK0: +5
 Typ obrażeń: obuchowe
 
 Special:
-- Bane: +2 Attack Bonus vs Giants and an additional 1d6+2 damage vs Giants
+- Bane: +2 Attack Bonus vs Giants and an additional 1k6+2 damage vs Giants
 
 Opóźnienie: 0
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -1755,14 +1756,14 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5 
 Typ obrażeń: obuchowe
 
 Special:
 - Dispelling: Target must make a Will save or come under the effects of Dispel Magic
 
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 
 Waga: 7~
@@ -1770,15 +1771,15 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5 
 Typ obrażeń: obuchowe
 
 Special:
 - Holy: +2d6 damage against evil creatures
-- Corrosive Burst: +1d6 acid damage and 10% chance of +1d10 extra acid damage
+- Corrosive Burst: +1k6 acid damage and 10% chance of +1k10 extra acid damage
 
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 
 Waga: 7~
@@ -1787,11 +1788,11 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1 
 Typ obrażeń: obuchowe
 Opóźnienie: 4
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -1801,11 +1802,11 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1 
 Typ obrażeń: kłute
 Opóźnienie: 6
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -1815,14 +1816,14 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: kłute
 
 Special:
 - Wounding: Inflicts 1 additional point of damge per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 6
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -1832,14 +1833,14 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Corrosion: 50% chance of +1d6 acid damage
+- Corrosion: 50% chance of +1k6 acid damage
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -1849,15 +1850,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: kłute
 
 Special:
-- Flame: 50% chance of +1D6 fire damage
+- Flame: 50% chance of +1k6 fire damage
 
 Opóźnienie: 8
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -1867,14 +1868,14 @@ Waga: 14~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +2
 Typ obrażeń: kłute
 
 Special:
   2% chance of casting Finger of Death on target
 
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 
 Waga: 1~
@@ -1884,14 +1885,14 @@ Miecz ten należał niegdyś do Kresselaka, króla barbarzyńców. Broń posiada
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
 Special:
 - Cold Resistance
 
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 
 Waga: 12~
@@ -1930,14 +1931,14 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3
 Typ obrażeń: kłute
 
 Special: 
-  5% of all hits cause an additional 1d6 points of damage from the barbs on the spearhead
+  5% of all hits cause an additional 1k6 points of damage from the barbs on the spearhead
 
-Proficiency Type: Spear 
+Rodzaj biegłości: włócznia 
 Typ broni: 2-ręczna
 
 Waga: 2~
@@ -1945,7 +1946,7 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 Armor Class: +1
@@ -1953,7 +1954,7 @@ Armor Class: +1
 Special:
 - Resistance Bonus +1 on Will saves
 
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 
 Waga: 3~
@@ -1961,10 +1962,10 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +5
 Typ obrażeń: kłute
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 
 Waga: 1~
@@ -1972,14 +1973,14 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1 
 Typ obrażeń: pocisk
 
 Special: 
 - Spell Process: Bolts cast Silence on target (Will save negates)
 
-Proficiency Type: Crossbow
+Wyrzutnia: kusza
 
 Waga: 0~
 @2941  = ~Ta z pozoru wytarta szata została "uśpiona" na życzenie Lysan, która nie chciała, by ktoś rozpoznał ją jako kapłankę Auril. Jednakże, kiedy spadnie na nią choć jeden płatek śniegu, szata przekształca się w iskrzący, biały płaszcz, który umożliwia noszącemu unoszenie się ponad zaspami śniegu i przekraczanie nawet rwących nurtów rzecznych z łatwością. Większość kupców nie zechce go odkupić, a jeżeli, to za bardzo niska cenę. Widzą w nim bowiem przedmiot poświęcony Auril, Lodowej Pannie, który prawdopodobnie przyciągnie jej wyznawców... i ściągnie niezadowolenie samej bogini.
@@ -2001,7 +2002,7 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -2010,7 +2011,7 @@ Special:
 - Magic Resistance: +5
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -2020,14 +2021,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
 - Spell Power: Can cast Invisibility 2/day
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -2037,7 +2038,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
@@ -2045,7 +2046,7 @@ Special:
 - Hit Point Bonus: +15 to max hit points
 
 Opóźnienie: 1
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -2055,7 +2056,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +4
+Obrażenia: 1k10 +4
 TraK0: +4
 Typ obrażeń: kłute
 
@@ -2063,7 +2064,7 @@ Special:
 - Spell Process: 50% chance target is affected by the spell Horror
 
 Opóźnienie: 5
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -2087,14 +2088,14 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2, +3 vs. Lawful Creatures
+Obrażenia: 1k6 +2, +3 vs. Lawful Creatures
 TraK0: +1, +2 vs. Lawful Creatures
 Typ obrażeń: obuchowe
 
 Special:
   +1 to all Saving Throws, 13% of all hits cause Curse
 
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 
 Waga: 7~
@@ -2102,7 +2103,7 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: kłute
 
@@ -2110,7 +2111,7 @@ Special:
 - Wielder immune to Haste and Slow
   25% chance target is Slowed
 
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 
 Waga: 3~
@@ -2150,7 +2151,7 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
@@ -2158,7 +2159,7 @@ Special:
   5% chance to Dispel Magic on a successful hit
   +5% Magic Resistance
 
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 
 Waga: 5~
@@ -2166,16 +2167,16 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 Typ obrażeń: kłute
 
 Special:
 - Unholy: +2d6 damage vs Good creatures
 - Chaotic: +2d6 damage vs Lawful creatures
 - Bane: +2 Attack Bonus vs Elves and +2d6+2 vs Elves
-- Vampiric: 1d4 hit points drained from target and added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and added to wielder (Fortitude save for none)
 
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 
 Waga: 14~
@@ -2183,7 +2184,7 @@ Waga: 14~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 
@@ -2192,7 +2193,7 @@ Special:
 - Venom: +2 points of poison damage every second for 6 seconds (Fortitude save for none)
 
 Opóźnienie: 1
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -2204,7 +2205,7 @@ PARAMETRY:
 
 TraK0: +1 
 Opóźnienie: 6
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -2218,7 +2219,7 @@ Obrażenia: +2
 TraK0: +1
 Typ obrażeń: pocisk
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -2241,10 +2242,10 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 
 Waga: 1~
@@ -2252,14 +2253,14 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special: 
 - Spell Power: Can cast Entangle or Flame Strike
 
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 
 Waga: 3~
@@ -2289,7 +2290,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -2297,7 +2298,7 @@ Special:
   +2 to Armor Bonus (except Missile)
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 
 Waga: 4~
@@ -2312,7 +2313,7 @@ Special:
   Extremely fast
 
 Opóźnienie: 3
-Proficiency Type: Bow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12 
@@ -2364,14 +2365,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 Attack penalty: -3 
 Typ obrażeń: pocisk
 
 Special:
 - On a successful hit, the user is transported next to the target.
 
-Proficiency Type: Bow 
+Wyrzutnia: łuk 
 
 Waga: 0~
 @3722  = ~Wygląda to na zwyczajny worek ziemniaków.
@@ -2388,7 +2389,7 @@ Special:
 - Hit Point Bonus: +5 to maximum hit points
 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3 
@@ -2402,7 +2403,7 @@ Special:
  Magic Resistance: +5
 
 Opóźnienie: 5
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -2414,7 +2415,7 @@ PARAMETRY:
 
 TraK0: +2 
 Opóźnienie: 6
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8 
@@ -2431,7 +2432,7 @@ Special:
 - Defending: +2 Deflection Bonus
 
 Opóźnienie: 5
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3 
@@ -2444,7 +2445,7 @@ PARAMETRY:
 Obrażenia: +6 (Missile)
 TraK0: +8
 Opóźnienie: 6
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12 
@@ -2461,7 +2462,7 @@ Special:
 - Hit Point Bonus: +10 hit points
 
 Opóźnienie: 4
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3 
@@ -2478,7 +2479,7 @@ Special:
 - Dexterity: +1
 
 Opóźnienie: 3
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3 
@@ -2495,7 +2496,7 @@ Special:
 - Constitution: +4
 
 Opóźnienie: 4
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3 
@@ -2513,7 +2514,7 @@ Special:
 - Dexterity: +1
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 15 
@@ -2526,7 +2527,7 @@ PARAMETRY:
 Obrażenia: +5 (Missile)
 TraK0: +7
 Opóźnienie: 1
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3 
@@ -2543,7 +2544,7 @@ Special:
 - Fire Resistance: +15
 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3 
@@ -2560,7 +2561,7 @@ Special:
 - Random +4 bonus to Strength, Constitution, Dexterity, Wisdom, Intelligence, or Charisma when struck in melee combat. Effect lasts for 5 combat rounds. User is immune to further bonuses until 1st bonus expires.
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 15 
@@ -2570,11 +2571,11 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1 
 Typ obrażeń: sieczne
 Opóźnienie: 5
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10 
@@ -2584,14 +2585,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special: 
-  Vampiric: 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+  Vampiric: 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -2601,14 +2602,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 Typ obrażeń: sieczne
 
 Special:
 - Deflection Bonus: +1 
 
 Opóźnienie: 9
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 18 
@@ -2618,14 +2619,14 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: kłute
 
 Special:
   Shadowed: +10 to Hide skill
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5 
@@ -2635,7 +2636,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -2643,7 +2644,7 @@ Special:
 - Magic Resistance: +5
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -2653,15 +2654,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
 Special:
-- Frost: +1d6 Cold damage
+- Frost: +1k6 Cold damage
 
 Opóźnienie: 7
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -2671,15 +2672,15 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
 Special:
-- Shock: 50% chance of +1d6 electrical damage
+- Shock: 50% chance of +1k6 electrical damage
 
 Opóźnienie: 3
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -2689,15 +2690,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
 - Bane: +2 Attack Bonus vs Skeletal Undead and +2d6+2 vs Skeletal Undead
-- Flame: 50% chance of +1d6 fire damage
+- Flame: 50% chance of +1k6 fire damage
 
 Opóźnienie: 4
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10 
@@ -2707,16 +2708,16 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1 
 Typ obrażeń: sieczne
 
 Special:
-- Vampiric: 1d4 hit points drained from target and added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and added to wielder (Fortitude save for none)
 - Wounding: Inflicts 1 additional point of damge per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -2726,7 +2727,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1 
 Typ obrażeń: sieczne
 
@@ -2734,7 +2735,7 @@ Special:
 - Speed: 1 additional attack per combat round
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -2744,7 +2745,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +2
+Obrażenia: 2k4 +2
 TraK0: +2 
 Typ obrażeń: sieczne
 
@@ -2753,7 +2754,7 @@ Special:
 - Keen: Increases chance of scoring a critical hit
 
 Opóźnienie: 6
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -2763,7 +2764,7 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: kłute
 
@@ -2771,7 +2772,7 @@ Special:
 - Shadowed: +20 to Hide skill
 
 Opóźnienie: 0
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5 
@@ -2781,15 +2782,15 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +3
+Obrażenia: 1k10 +3
 TraK0: +3
 Typ obrażeń: sieczne
 
 Special: 
-  Flame: +1d6 fire damage
+  Flame: +1k6 fire damage
 
 Opóźnienie: 7
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14 
@@ -2799,7 +2800,7 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +4
+Obrażenia: 1k8 +4
 TraK0: +4
 Typ obrażeń: sieczne
 
@@ -2807,7 +2808,7 @@ Special:
 - Venom: +2 points of poison damage every second for 6 seconds, Fortitude save for none
 
 Opóźnienie: 1
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10 
@@ -2817,15 +2818,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +4
+Obrażenia: 1k8 +4
 TraK0: +4 
 Typ obrażeń: sieczne
 
 Special:
-- Vampiric: 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 1
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -2835,15 +2836,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5
 Typ obrażeń: sieczne
 
 Special:
-- Frost: +1d6 cold damage
+- Frost: +1k6 cold damage
 
 Opóźnienie: 0
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -2853,7 +2854,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: kłute
 
@@ -2861,7 +2862,7 @@ Special:
 - Speed: 1 additional attack per combat round
 
 Opóźnienie: 0
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5 
@@ -2871,17 +2872,17 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +2
+Obrażenia: 1k10 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
 Special:
 - Bane: +2 Attack Bonus and +2d6+2 damage vs Undead
-- Flaming Burst: +1d6 fire damage and 10% chance of +1d10 extra fire damage
+- Flaming Burst: +1k6 fire damage and 10% chance of +1k10 extra fire damage
 - Sure Striking: Weapon is treated as having a +4 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 8
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14 
@@ -2891,16 +2892,16 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +3
+Obrażenia: 1k10 +3
 TraK0: +3
 Typ obrażeń: sieczne
 
 Special:
-- Frost: +1d6 Cold damage
-- Flame: +1d6 Fire damage
+- Frost: +1k6 Cold damage
+- Flame: +1k6 Fire damage
 
 Opóźnienie: 5
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -2910,7 +2911,7 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: kłute
 
@@ -2918,7 +2919,7 @@ Special:
 - Brilliant Energy: All attacks ignore targets shield and armor bonuses
 
 Opóźnienie: 0
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5 
@@ -2931,11 +2932,11 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1 
 Typ obrażeń: sieczne
 Opóźnienie: 5
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10 
@@ -2945,7 +2946,7 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -2953,7 +2954,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10 
@@ -2970,7 +2971,7 @@ Special:
   Magic Resistance: +5
 
 Opóźnienie: 5
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3 
@@ -2980,15 +2981,15 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
 Special:
-- Flame: +1d6 fire damage
+- Flame: +1k6 fire damage
 
 Opóźnienie: 2
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5 
@@ -2998,18 +2999,18 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: pocisk
 Typ obrażeń: sieczne (Melee)
 
 Special: 
 - Returning: Returns to user's hand once thrown
-- Shocking Burst: +1d6 electrical damage and 10% chance of +1d10 extra electrical damage
+- Shocking Burst: +1k6 electrical damage and 10% chance of +1k10 extra electrical damage
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Speed Factor (Thrown): 1
 Speed Factor (Melee): 2
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4 
@@ -3019,7 +3020,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
@@ -3027,7 +3028,7 @@ Special:
 - Deflection Bonus +3 
 
 Opóźnienie: 1
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5 
@@ -3037,7 +3038,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +4
+Obrażenia: 1k6 +4
 TraK0: +4
 Typ obrażeń: kłute
 
@@ -3045,7 +3046,7 @@ Special:
 - Spell Power: Can cast Icelance 1/day
 
 Opóźnienie: 2
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5 
@@ -3061,10 +3062,10 @@ Typ obrażeń: kłute
 
 Special:
 - Evil: +2d6 damage against good creatures
-- Vampiric: 1d4 hit points drained from target and added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and added to wielder (Fortitude save for none)
 
 Opóźnienie: 5
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 18 
@@ -3081,7 +3082,7 @@ Special:
 - Magic Resistance: +15
 
 Opóźnienie: 1
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3 
@@ -3148,56 +3149,56 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special: 
-- Shock: +1d6 electrical damage
+- Shock: +1k6 electrical damage
 
-Proficiency Type: Bow 
+Wyrzutnia: łuk 
 
 Waga: 0~
 @5786  = ~Pociski zwane bełtami stanowią amunicję dla dowolnej wielkości kuszy. Jednakże, ten pocisk został nasączony magiczną energią, która powoduje, że jego lot jest pewniejszy. Zupełnie, jakby bełt sam namierzał się na cel.
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special: 
-- Corrosion: +1d6 acid damage
+- Corrosion: +1k6 acid damage
 
-Proficiency Type: Crossbow 
+Wyrzutnia: kusza 
 
 Waga: 0~
 @5794  = ~Ten bełt wydaje się tryskać energią i sam wyrywa się z dłoni. Wystrzelony z kuszy zostawia za sobą zapach palonej siarki. W momencie uderzenia daje się usłyszeć trzask uwalnianej energii, zamkniętej do tej pory w pocisku.
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special: 
-- Shock: +1d6 electrical damage 
+- Shock: +1k6 electrical damage 
 
-Proficiency Type: Crossbow 
+Wyrzutnia: kusza 
 
 Waga: 0~
 @5796  = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, iż wydaje się on lepiej wyważony i lżejszy, kiedy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special: 
-- Corrosion: +1d6 acid damage
+- Corrosion: +1k6 acid damage
 
-Proficiency Type: Sling 
+Wyrzutnia: proca 
 
 Waga: 0~
 @5802  = ~Zbroję tego typu wykonano starannie na potrzeby najlepszych myśliwych z Wędrującej Wioski. Wykończono ją futrem wielkiego, białego wilka z Upadłego Lasu i zaklęto weń odporność na zimowy chłód.
@@ -3260,42 +3261,42 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special:
 - Stunning: target is Stunned for 2 combat round (Fortitude save to resist)
 
-Proficiency Type: Bow 
+Wyrzutnia: łuk 
 
 Waga: 0~
 @5826  = ~Pociski zwane bełtami stanowią amunicję dla dowolnej wielkości kuszy. Jednakże, ten pocisk został nasączony magiczną energią, która powoduje, że jego lot jest pewniejszy. Zupełnie, jakby bełt sam namierzał się na cel.
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special:
 - Stunning: target is Stunned for 2 combat round (Fortitude save to resist)
 
-Proficiency Type: Crossbow 
+Wyrzutnia: kusza 
 
 Waga: 0~
 @5828  = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, iż wydaje się on lepiej wyważony i lżejszy, kiedy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special:
 - Stunning: Target is Stunned for 2 combat rounds (Fortitude save to resist)
 
-Proficiency Type: Sling 
+Wyrzutnia: proca 
 
 Waga: 0~
 @5830  = ~Pierścień to rodzaj zdobnej obrączki wykonanej ze szlachetnego metalu, używanej jako biżuterii. Rzadziej spotykane są magiczne pierścienie, które posiadające dodatkowe, niezwykłe właściwości. Tego typu pierścienie są bardzo cenne i poszukiwane, przede wszystkim przez łowców przygód. Z nieznanych przyczyn pierścień ten wydaje się ciepły w dotyku.
@@ -3357,7 +3358,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -3365,7 +3366,7 @@ Special:
 - Cold Resistance: +25
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6 
@@ -3375,10 +3376,10 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1
 Typ obrażeń: pocisk
-Proficiency Type: Bow 
+Wyrzutnia: łuk 
 
 Waga: 0~
 @6340  = ~Długi łuk przypomina krótki, z tą różnicą że jest mniej więcej tej samej wysokości, co łucznik, czyli od 1,8 do 2 metrów. Ma przewagę nad łukiem krótkim dzięki większemu zasięgowi i lepszej celności.
@@ -3387,7 +3388,7 @@ PARAMETRY:
 
 TraK0: +2 
 Opóźnienie: 7
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6 
@@ -3400,7 +3401,7 @@ PARAMETRY:
 Obrażenia: +2 (Missile)
 TraK0: +2 
 Opóźnienie: 7
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 15 
@@ -3410,11 +3411,11 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 TraK0: +1 
 Typ obrażeń: kłute
 Opóźnienie: 9
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13 
@@ -3424,15 +3425,15 @@ Waga: 15~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-  Shock: +1d6 electrical damage
+  Shock: +1k6 electrical damage
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -3442,7 +3443,7 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -3450,7 +3451,7 @@ Special:
 - Deflection Bonus: +1 
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -3460,15 +3461,15 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Flame: +1d6 fire damage
+- Flame: +1k6 fire damage
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -3478,15 +3479,15 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Piercing: +1d6 piercing damage
+- Piercing: +1k6 piercing damage
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -3496,15 +3497,15 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +2
+Obrażenia: 2k4 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
 Special:
-- Corrosive: +1d6 acid damage
+- Corrosive: +1k6 acid damage
 
 Opóźnienie: 5
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -3514,15 +3515,15 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +3
+Obrażenia: 2k4 +3
 TraK0: +3 
 Typ obrażeń: obuchowe
 
 Special:
-- Vampiric: 25% chance of 2d4 hit points drained from target and added to wielder (Fortitude save for none)
+- Vampiric: 25% chance of 2k4 hit points drained from target and added to wielder (Fortitude save for none)
 
 Opóźnienie: 4
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -3532,7 +3533,7 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +2
+Obrażenia: 2k4 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -3540,7 +3541,7 @@ Special:
 - Wounding: Causes 5 hit points of damage per round for 10 rounds. Multiple wounds are cumulative. (Fortitude negates)
 
 Opóźnienie: 5
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11 
@@ -3592,15 +3593,15 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1 
 Typ obrażeń: kłute
 
 Special:
-  +1d6 piercing damage and 10% chance of +1d10 extra piercing damage
+  +1k6 piercing damage and 10% chance of +1k10 extra piercing damage
 
 Opóźnienie: 5
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5 
@@ -3610,44 +3611,44 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 TraK0: +2 
 Typ obrażeń: pocisk
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @8109  = ~Tego typu strzały posiadają specjalnie zaprojektowany grot. Jego niecodzienność polega na tym, że po trafieniu, tnie on i poszerza ranę przy każdym ruchu, jaki wykonuje ofiara. Zazwyczaj powoduje to zwiększone krwawienie, dzięki czemu myśliwy bez trudu odnajduje ranną zwierzynę.
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: pocisk
 
 Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @8120  = ~Strzała ta, poza mistrzowskim wykonaniem, charakteryzuje się tym, że na całej jej powierzchni wyryte są maleńkie runy mocy. Najwyraźniej wytworzenie jej zajęło wiele czasu i kosztowało niemało wysiłku. Runy, choć nie widać tego na pierwszy rzut oka, emanują delikatnym, niebieskim blaskiem.
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special:
-- Crushing: +1d6 crushing damage
+- Crushing: +1k6 crushing damage
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @8123  = ~Strzałka to mała, łatwa do ukrycia broń, służąca raczej do rzucania, niż strzelania przy pomocy kuszy, czy innej wyrzutni. Jej trzonek został starannie naznaczony wersami mocy.
 
 PARAMETRY:
 
-Obrażenia: 1d3 +1
+Obrażenia: 1k3 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
@@ -3655,7 +3656,7 @@ Special:
 - Spell Process: Attempts to place target under the effects of a charm spell (Will save negates)
 
 Opóźnienie: 1
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -3663,7 +3664,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3 +1
+Obrażenia: 1k3 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
@@ -3671,7 +3672,7 @@ Special:
 - Slashing: +3d4 Slashing damage
 
 Opóźnienie: 1
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -3681,15 +3682,15 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3 +4
+Obrażenia: 1k3 +4
 TraK0: +4
 Typ obrażeń: pocisk
 
 Special:
-- Frost: +1d6 cold damage
+- Frost: +1k6 cold damage
 
 Opóźnienie: 0
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -3710,7 +3711,7 @@ Historia Szału Chaosu nie jest znana. Ostrze to pojawiało się w wielu bitwach
 
 PARAMETRY:
 
-Obrażenia: 2d4 +3
+Obrażenia: 2k4 +3
 TraK0: +3
 Typ obrażeń: sieczne
 
@@ -3720,7 +3721,7 @@ Special:
 - Chaotic: +2d6 damage to lawful creatures
 
 Opóźnienie: 5
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 11
@@ -3730,19 +3731,19 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
 Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
-- 50% chance +1d6 fire damage
+- 50% chance +1k6 fire damage
 - 30% chance +2d6 fire damage
 - 15% chance +3d6 fire damage
 - 5% chance +5d6 fire damage
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -3752,7 +3753,7 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -3761,7 +3762,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -3771,7 +3772,7 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +5
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 
@@ -3779,7 +3780,7 @@ Special:
 - Slashing: +2d6 slashing damage
 
 Opóźnienie: 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -3789,7 +3790,7 @@ Waga: 10~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +5
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 
@@ -3797,7 +3798,7 @@ Special:
 - Strength: +1 
 
 Opóźnienie: 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 18
@@ -3807,7 +3808,7 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 2d4
+Obrażenia: 2k4
 Typ obrażeń: obuchowe
 
 Special:
@@ -3816,7 +3817,7 @@ Special:
 - Crushing: +3d6 Crushing damage
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -3826,7 +3827,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: kłute
 
 Special:
@@ -3835,7 +3836,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -3845,16 +3846,16 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 Typ obrażeń: kłute
 
 Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
   Frost: +2d6 cold damage
-  Frost Burst: +1d6 cold damage and 10% chance of +1d10 extra cold damage
+  Frost Burst: +1k6 cold damage and 10% chance of +1k10 extra cold damage
 
 Opóźnienie: 8
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -3864,7 +3865,7 @@ Waga: 14~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: kłute
 
@@ -3873,7 +3874,7 @@ Special:
 - Flame: +2d6 fire damage
 
 Opóźnienie: 4
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -3883,7 +3884,7 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5 
 Typ obrażeń: obuchowe
 
@@ -3891,7 +3892,7 @@ Special:
 - Phantom: Projects a ghostly image of the weapon that can strike an opponent from a distance of up to 15 feet.
 
 Opóźnienie: 1
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -3901,15 +3902,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +5
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 
 Special:
-- Slashing: +1d6 Slashing damage
+- Slashing: +1k6 Slashing damage
 
 Opóźnienie: 5
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -3919,7 +3920,7 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6 + 4
+Obrażenia: 1k6 + 4
 TraK0: +4
 Typ obrażeń: kłute
 
@@ -3927,7 +3928,7 @@ Special:
 - Wounding: Inflicts 2 additional points of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 0
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -3937,16 +3938,16 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
 - Wounding: Inflicts 5 additional points of damage per round for 10 rounds (Fortitude negates)
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
-- Slashing: +1d6 Slashing damage
+- Slashing: +1k6 Slashing damage
 
 Opóźnienie: 5
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -3956,7 +3957,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +3
+Obrażenia: 1k10 +3
 TraK0: +3
 Typ obrażeń: sieczne
 
@@ -3966,7 +3967,7 @@ Special:
 - Slashing: +3d6 Slashing damage
 
 Opóźnienie: 6
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -3976,14 +3977,14 @@ Waga: 10~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: pocisk
 
 Special:
 - Returning: Arrow returns to user
   Note: Other than the ability to return to its user the arrow has no other magical properties.
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @9226  = ~Jestem <CHARNAME>. Dargab wysłał mnie do ciebie, żebym spytał o narzędzia górnicze.~
@@ -4020,7 +4021,7 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
@@ -4029,7 +4030,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 1
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4039,7 +4040,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +5
 Typ obrażeń: obuchowe
 
@@ -4047,7 +4048,7 @@ Special:
 - Impact: Increases chance of scoring a critical hit
 
 Opóźnienie: 1
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4139,7 +4140,7 @@ Waga: 15~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1 
 Typ obrażeń: sieczne
 
@@ -4147,7 +4148,7 @@ Special:
 - Keen: Increases chance of scoring a critical hit
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4158,14 +4159,14 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 2d4
+Obrażenia: 2k4
 Typ obrażeń: obuchowe
 
 Special:
 - Spell Process:  50% chance to Blind target (Fortitude save negates)
 
 Opóźnienie: 3
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -4177,7 +4178,7 @@ Zdarza się jednak, że olbrzymia nienawiść i nienaturalna moc, jaką noszą w
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -4185,7 +4186,7 @@ Special:
 - Spell Process: 66% chance of casting Bane on target
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4207,7 +4208,7 @@ Waga: 50~
 
 PARAMETRY:
 
-Obrażenia: 1d8+3 (+2d4 fire)
+Obrażenia: 1k8+3 (+2d4 fire)
 TraK0: +3
 Typ obrażeń: sieczne
 
@@ -4215,7 +4216,7 @@ Special:
   15% chance target is Stunned
 
 Opóźnienie: 2
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4264,14 +4265,14 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
   Venom: +2 points of poison damage every second for 6 seconds, Fortitude save for none
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4281,14 +4282,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
 - Spellward: Immune to the effects of Charm Person
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4298,16 +4299,16 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
 Special:
-- Flame: 25% chance +1d6 fire damage
-- Shock: 25% chance +1d6 electric damage
+- Flame: 25% chance +1k6 fire damage
+- Shock: 25% chance +1k6 electric damage
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4317,7 +4318,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -4325,7 +4326,7 @@ Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 4
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4335,16 +4336,16 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
 Special:
-- Frost: 25% chance +1d6 cold damage
-- Corrosion: 25% chance +1d6 acid damage
+- Frost: 25% chance +1k6 cold damage
+- Corrosion: 25% chance +1k6 acid damage
 
 Opóźnienie: 3
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4354,7 +4355,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
@@ -4362,7 +4363,7 @@ Special:
 - Stunning: 25% chance target is stunned for 1/2 round (Fortitude save to resist)
 
 Opóźnienie: 3
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -4372,14 +4373,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: kłute
 
 Special:
-- Frost: 50% chance +1d6 cold damage
+- Frost: 50% chance +1k6 cold damage
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4389,14 +4390,14 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: kłute
 
 Special:
-- Vampiric: 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4406,7 +4407,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -4414,7 +4415,7 @@ Special:
 - Spell Power: Can cast the spell, Minor Mirror Image 1/day
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4424,7 +4425,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -4432,7 +4433,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4441,7 +4442,7 @@ Waga: 3~
 @16401 = ~Typowy sztylet do rzucania, w przeciwieństwie do zwykłego, jednosiecznego noża, ma spiczaste, obosieczne ostrze, i jest trochę krótszy niż sztylet. W przeciwieństwie do typowego sztyletu, ma mniejszą rękojeść i jest inaczej wyważony. Na klindze tego egzemplarza wyryto lśniące złowrogim blaskiem runy.
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Damage Type (Thrown): Missile
 Damage Type (Melee): Piercing
 
@@ -4449,7 +4450,7 @@ Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 2
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4459,7 +4460,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -4468,7 +4469,7 @@ Special:
 - Stunning: 25% chance target is stunned for 1/2 round (Fortitude save to resist)
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4479,7 +4480,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -4488,7 +4489,7 @@ Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -4498,14 +4499,14 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
 - Spell Power: Can cast the spell Entangle 1/day
 
 Opóźnienie: 5
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4515,7 +4516,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -4523,7 +4524,7 @@ Special:
 - Deflection Bonus: +1 
 
 Opóźnienie: 4
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4533,15 +4534,15 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
 Special:
-- Corrosion: 50% chance +1d6 acid damage
+- Corrosion: 50% chance +1k6 acid damage
 
 Opóźnienie: 3
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4551,14 +4552,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 2d4
+Obrażenia: 2k4
 Typ obrażeń: sieczne
 
 Special:
-- Shock: 50% chance +1d6 electrical damage
+- Shock: 50% chance +1k6 electrical damage
 
 Opóźnienie: 7
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -4568,7 +4569,7 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -4576,7 +4577,7 @@ Special:
 - Bane: +2 Attack Bonus and +2d6+2 vs Undead
 
 Opóźnienie: 7
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -4586,14 +4587,14 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 Typ obrażeń: sieczne
 
 Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 8
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -4603,15 +4604,15 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
 Special:
-- Flame: 50% chance +1d6 fire damage
+- Flame: 50% chance +1k6 fire damage
 
 Opóźnienie: 9
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -4621,7 +4622,7 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +2
+Obrażenia: 1k10 +2
 TraK0: +2
 Typ obrażeń: sieczne
 
@@ -4629,7 +4630,7 @@ Special:
 - Spell Power: Can cast the spell Bless 1/day 
 
 Opóźnienie: 8
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -4639,13 +4640,13 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 2d4
+Obrażenia: 2k4
 Typ obrażeń: obuchowe
 
 Special: 
 - Venom: +2 points of poison damage every second for 6 seconds, Fortitude save for none
 
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -4655,14 +4656,14 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 6
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4672,15 +4673,15 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Flame: 50% chance +1d6 fire damage
-- Frost: 50% chance +1d6 cold damage
+- Flame: 50% chance +1k6 fire damage
+- Frost: 50% chance +1k6 cold damage
 
 Opóźnienie: 6
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4690,15 +4691,15 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Shock: 50% chance +1d6 electric damage
+- Shock: 50% chance +1k6 electric damage
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -4708,7 +4709,7 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -4716,7 +4717,7 @@ Special:
 - Bane: +2 Attack Bonus vs Goblins and +2d6+2 damage vs Goblins
 
 Opóźnienie: 6
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4726,7 +4727,7 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -4734,7 +4735,7 @@ Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 5
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -4744,14 +4745,14 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Vampiric: 50% chance for 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 50% chance for 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -4761,14 +4762,14 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Corrosive: 50% chance +1d6 acid damage
+- Corrosive: 50% chance +1k6 acid damage
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -4778,7 +4779,7 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -4786,7 +4787,7 @@ Special:
 - Deflection Bonus: +1 
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -4796,7 +4797,7 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -4804,7 +4805,7 @@ Special:
 - Stunning: 50% chance target is stunned for 1/2 combat round (Fortitude save to resist)
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -4814,7 +4815,7 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -4823,7 +4824,7 @@ Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 5
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -4833,14 +4834,14 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: kłute
 
 Special:
 - Magic Resistance: +5
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4850,15 +4851,15 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: kłute
 
 Special:
 - Magic Resistance: +5
-- Flame: 50% chance +1d6 fire damage
+- Flame: 50% chance +1k6 fire damage
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4868,15 +4869,15 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: kłute
 
 Special:
-- Vampiric: 50% chance for 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 50% chance for 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4886,15 +4887,15 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 + 1
+Obrażenia: 1k4 + 1
 TraK0: +1
 Typ obrażeń: kłute
 
 Special:
-- Frost: 50% chance +1d6 cold damage
+- Frost: 50% chance +1k6 cold damage
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4904,7 +4905,7 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +2
 Typ obrażeń: kłute
 
@@ -4912,7 +4913,7 @@ Special:
 - Venom: +2 points of poison damage every second for 6 seconds, Fortitude save for none
 
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4922,12 +4923,12 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: kłute
 Opóźnienie: 1 (Missile)
 Opóźnienie: 2 (Melee)
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4937,11 +4938,11 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +2
 Typ obrażeń: kłute
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4951,14 +4952,14 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: kłute
 
 Special:
-- Corrosion: +1d6 acid damage
+- Corrosion: +1k6 acid damage
 
 Opóźnienie: 2
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4968,17 +4969,17 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1 
 Typ obrażeń: kłute
 
 Special: 
 - Returning: Returns to user
-- Flame: 50% chance +1d6 fire damage
+- Flame: 50% chance +1k6 fire damage
 
 Opóźnienie: 1 (Missile)
 Opóźnienie: 2 (Melee)
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -4988,14 +4989,14 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -5005,14 +5006,14 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 
 Special:
 - Spell Power: Can cast the spell Blur 1/day 
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -5022,15 +5023,15 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
 Special:
-- Corrosion: 50% chance +1d6 acid damage
+- Corrosion: 50% chance +1k6 acid damage
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna	 
 Wymagania:
 – Siła: 10
@@ -5040,15 +5041,15 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
 Special:
-- Frost: 50% chance +1d6 cold damage
+- Frost: 50% chance +1k6 cold damage
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -5058,7 +5059,7 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -5066,7 +5067,7 @@ Special:
 - Keen: Increases chance of scoring a critical hit
 
 Opóźnienie: 6
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -5076,13 +5077,13 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
 Speed Factor (Melee): 4
 Speed Factor (Thrown): 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -5092,7 +5093,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
 
@@ -5101,7 +5102,7 @@ Special:
 
 Speed Factor (Melee): 4
 Speed Factor (Thrown): 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -5111,7 +5112,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
 
@@ -5121,7 +5122,7 @@ Special:
 
 Speed Factor (Melee): 4
 Speed Factor (Thrown): 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -5131,7 +5132,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
 
@@ -5140,7 +5141,7 @@ Special:
 
 Speed Factor (Melee): 4
 Speed Factor (Thrown): 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -5150,7 +5151,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1 
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
@@ -5161,7 +5162,7 @@ Special:
 
 Speed Factor (Melee): 4
 Speed Factor (Thrown): 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -5171,14 +5172,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: kłute
 
 Special:
-- Shock: 50% chance +1d6 electrical damage
+- Shock: 50% chance +1k6 electrical damage
 
 Opóźnienie: 6
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -5188,14 +5189,14 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 Typ obrażeń: kłute
 
 Special:
 - Spellward: Immune to the effects of Charm Person
 
 Opóźnienie: 8
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -5205,7 +5206,7 @@ Waga: 14~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -5213,7 +5214,7 @@ Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 5
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -5223,16 +5224,16 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: kłute
 
 Special:
-- Corrosion: 25% chance +1d6 acid damage
-- Flame: 25% chance +1d6 fire damage
+- Corrosion: 25% chance +1k6 acid damage
+- Flame: 25% chance +1k6 fire damage
 
 Opóźnienie: 8
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -5242,7 +5243,7 @@ Waga: 14~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: kłute
 
@@ -5250,7 +5251,7 @@ Special:
 - Stunning: Fortitude save or target is stunned for 1/2 combat round
 
 Opóźnienie: 4
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -5260,7 +5261,7 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d10
+Obrażenia: 1k10
 Typ obrażeń: kłute
 
 Special:
@@ -5268,7 +5269,7 @@ Special:
 - Keen: Increases chance of scoring a critical hit
 
 Opóźnienie: 8
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -5280,7 +5281,7 @@ PARAMETRY:
 
 Armor Class: +1 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -5294,7 +5295,7 @@ Special:
  Shadowed: +10 to Hide skill
 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -5311,7 +5312,7 @@ Special:
 - Magic Resistance: +5
 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -5328,7 +5329,7 @@ Special:
 - Silenced: +10 to Move Silently skill
 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -5345,7 +5346,7 @@ Special:
 - Spell Power: Can cast the spell Blur 1/day 
 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -5359,7 +5360,7 @@ Special:
 - Magic Resistance: +15
 
 Opóźnienie: 5
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -5376,7 +5377,7 @@ Special:
 - Deflection Bonus: +1 
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 15
@@ -5393,7 +5394,7 @@ Special:
 - Fire Resistance: +5
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -5409,7 +5410,7 @@ Special:
 - Spell Power: Can cast spell Shield 1/day
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -5425,7 +5426,7 @@ Special:
 - Magic Resistance: +15
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -5442,7 +5443,7 @@ Special:
 - Magic Resistance: +15
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 15
@@ -5459,7 +5460,7 @@ Special:
 - Spellward: Immunity to the spell Sleep
 
 Opóźnienie: 5
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -5473,7 +5474,7 @@ Special:
 - Hit Point Bonus: +5 to Max Hit Points
 
 Opóźnienie: 4
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -5490,7 +5491,7 @@ Special:
 - Magic Resistance: +5
 
 Opóźnienie: 4
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -5507,7 +5508,7 @@ Special:
 - Deflection Bonus: +1 
 
 Opóźnienie: 4
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -5523,7 +5524,7 @@ Special:
 - Spellward: Immunity to the spell Charm Person
 
 Opóźnienie: 9
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -5540,7 +5541,7 @@ Special:
 - Deflection Bonus: +1
 
 Opóźnienie: 9
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -5557,7 +5558,7 @@ Special:
 - Hit Point Bonus: +5 to Max Hit Points
 
 Opóźnienie: 8
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -5567,60 +5568,60 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: pocisk
 
 Special:
 - Dispelling: 25% chance Dispel Magic on target (Will save to resist)
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @16826 = ~Strzały te zostały nasączone magią w czasie tworzenia. Wydają się trochę prostsze od zwyczajnych strzał i prawie żywe, kiedy bez wysiłku opuszczają łuk i lecą w kierunku celu z zabójczą skutecznością.
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: pocisk
 
 Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @16829 = ~Strzały te zostały nasączone magią w czasie tworzenia. Wydają się trochę prostsze od zwyczajnych strzał i prawie żywe, kiedy bez wysiłku opuszczają łuk i lecą w kierunku celu z zabójczą skutecznością.
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1 
 Typ obrażeń: pocisk
 
 Special:
 - Stunning: 50% chance target is stunned for 1/2 combat round (Fortitude save to resist)
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @16834 = ~Strzały te zostały nasączone magią w czasie tworzenia. Wydają się trochę prostsze od zwyczajnych strzał i prawie żywe, kiedy bez wysiłku opuszczają łuk i lecą w kierunku celu z zabójczą skutecznością.
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: pocisk
 
 Special:
 - Keen: Increased chance of scoring a critical hit on target
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @16836 = ~Strzały te zostały nasączone magią w czasie tworzenia. Wydają się trochę prostsze od zwyczajnych strzał i prawie żywe, kiedy bez wysiłku opuszczają łuk i lecą w kierunku celu z zabójczą skutecznością.
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: pocisk
 
 Special:
@@ -5628,35 +5629,35 @@ Special:
 - Venom: +2 points of poison damage every second for 6 seconds, Fortitude save for none
 - Returning: Returns to user
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @16838 = ~Strzały te zostały nasączone magią w czasie tworzenia. Wydają się trochę prostsze od zwyczajnych strzał i prawie żywe, kiedy bez wysiłku opuszczają łuk i lecą w kierunku celu z zabójczą skutecznością.
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: pocisk
 
 Special:
 - Disruption: 50% chance all undead and outsiders hit by weapon must make a Fortitude save or be destroyed
 
-Proficiency Type: Bow
+Wyrzutnia: łuk
 
 Waga: 0~
 @16840 = ~Strzałka jest małą, łatwą do ukrycia bronią strzelecką, którą rzuca się, zamiast wystrzeliwać z łuku lub innego typu broni. Jej trzonek został naznaczony wersami mocy.
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 Typ obrażeń: pocisk
 
 Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 1
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 
 Typ broni: 1-ręczna
 
@@ -5665,14 +5666,14 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 Typ obrażeń: pocisk
 
 Special:
-- Shock: 25% chance +1d6 electric damage
+- Shock: 25% chance +1k6 electric damage
 
 Opóźnienie: 2
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -5680,15 +5681,15 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 Typ obrażeń: pocisk
 
 Special:
-- Frost: 25% chance +1d6 cold damage
+- Frost: 25% chance +1k6 cold damage
 - Returning: Returns to user
 
 Opóźnienie: 2
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -5696,7 +5697,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3
+Obrażenia: 1k3
 Typ obrażeń: pocisk
 
 Special:
@@ -5704,7 +5705,7 @@ Special:
 - Returning: Returns to user
 
 Opóźnienie: 2
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -5712,7 +5713,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3 +1
+Obrażenia: 1k3 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
@@ -5721,7 +5722,7 @@ Special:
 - Returning: Returns to user
 
 Opóźnienie: 1
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -5729,96 +5730,96 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: pocisk
 
 Special:
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @16854 = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, iż wydaje się on lepiej wyważony i lżejszy, kiedy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: pocisk
 
 Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @16856 = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, iż wydaje się on lepiej wyważony i lżejszy, kiedy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special:
 - Stunning: 25% chance target is stunned for 1/2 combat round (Fortitude save to resist)
 
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @16858 = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, iż wydaje się on lepiej wyważony i lżejszy, kiedy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special:
 - Disruption: All undead and outsiders hit by weapon must make a Fortitude save or be destroyed
 
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @16860 = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, iż wydaje się on lepiej wyważony i lżejszy, kiedy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: pocisk
 
 Special:
-- Corrosive Burst: +1d6 acid damage and 10% chance of +1d10 extra acid damage
+- Corrosive Burst: +1k6 acid damage and 10% chance of +1k10 extra acid damage
 
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @16862 = ~Magiczne prądy płynące wewnątrz tego pocisku sprawiają, iż wydaje się on lepiej wyważony i lżejszy, kiedy leci w stronę przeciwnika.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Typ obrażeń: pocisk
 
 Special:
 - Returning: Returns to user
-- Flame: 50% chance +1d6
+- Flame: 50% chance +1k6
 
-Proficiency Type: Sling
+Wyrzutnia: proca
 
 Waga: 0~
 @16864 = ~Tak jak inne młoty bojowe został on w całości wykonany ze stali. Składa się z miażdżącego kości młota osadzonego na półmetrowym drzewcu. Został też obdarzony pewnymi właściwościami magicznymi, dzięki którym lepiej sprawdza się w walce.
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 Typ obrażeń: obuchowe
 
 Special:
 - Lawful: 33% chance of +2d6 damage against chaotic creatures
 
 Opóźnienie: 4
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -5828,14 +5829,14 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 Typ obrażeń: obuchowe
 
 Special:
-- Piercing: 50% chance +1d6 piercing damage
+- Piercing: 50% chance +1k6 piercing damage
 
 Opóźnienie: 4
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -5845,15 +5846,15 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Corrosion: 50% chance +1d6 acid damage
+- Corrosion: 50% chance +1k6 acid damage
 
 Opóźnienie: 3
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -5863,7 +5864,7 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -5871,7 +5872,7 @@ Special:
 - Dispelling: 25% chance Dispel Magic on target (Will save to resist)
 
 Opóźnienie: 3
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -5881,16 +5882,16 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Frost: 50% chance +1d6 cold damage
+- Frost: 50% chance +1k6 cold damage
 - Stunning: 25% chance target is stunned for 1/2 combat round (Fortitude save to resist)
 
 Opóźnienie: 3
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -5900,7 +5901,7 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -5908,7 +5909,7 @@ Special:
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
 
 Opóźnienie: 2
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -5918,15 +5919,15 @@ Waga: 9~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 
 Special:
-- Vampiric: 50% chance 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 50% chance 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Typ obrażeń: obuchowe
 Waga: 3
 Opóźnienie: 4
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -5936,15 +5937,15 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Shock: 50% chance +1d6 electrical damage
+- Shock: 50% chance +1k6 electrical damage
 - Sure Striking: Weapon is treated as having a +5 enchantment for the purpose of hitting creatures that require magical weapons to hit
 
 Opóźnienie: 4
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -5954,7 +5955,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -5962,7 +5963,7 @@ Special:
 - Stunning: 25% chance target is stunned for 1/2 combat round (Fortitude save to resist)
 
 Opóźnienie: 3
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -5972,16 +5973,16 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
 Special:
-- Frost: 25% chance +1d6 cold damage
-- Flame: 25% chance +1d6 fire damage
+- Frost: 25% chance +1k6 cold damage
+- Flame: 25% chance +1k6 fire damage
 
 Opóźnienie: 2
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -6099,16 +6100,16 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
 - Bane: +2 Attack Bonus vs Trolls and +2d6+2 damage vs Trolls
-- Flame: 25% chance +1d6 fire damage
-- Corrosion: 25% chance +1d6 acid damage
+- Flame: 25% chance +1k6 fire damage
+- Corrosion: 25% chance +1k6 acid damage
 
 Opóźnienie: 3
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -6118,14 +6119,14 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
 - Spellward: Immunity to the spell Sleep
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -6135,14 +6136,14 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
 - Dispelling: 25% chance Dispel Magic on target (Will save to resist)
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -6152,7 +6153,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -6160,7 +6161,7 @@ Special:
 - Deflection Bonus: +1 
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -6170,16 +6171,16 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Flame: 25% chance +1d6 fire damage
-- Frost: 25% chance +1d6 cold damage
+- Flame: 25% chance +1k6 fire damage
+- Frost: 25% chance +1k6 cold damage
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -6189,7 +6190,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -6197,7 +6198,7 @@ Special:
 - Spell Power: Can cast wizard spell Invisibility 1/day
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -6207,7 +6208,7 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -6217,7 +6218,7 @@ Special:
 - Stunning: 25% chance target is stunned for 1/2 combat round (Fortitude save to resist)
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -6833,10 +6834,10 @@ Waga: 25~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: chłód
 Opóźnienie: 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -7203,7 +7204,7 @@ Brutalny wygląd i rozmiar kunsztownie wykonanego Sejmitaru Dusz uzupełnia zło
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3
 Typ obrażeń: sieczne
 
@@ -7212,7 +7213,7 @@ Special:
  - Energy Drain: -2 to Attack Bonus / -2 to damage, -10 to max hit points (Fortitude -2 to save) 
 
 Opóźnienie: 2
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -7315,7 +7316,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Heals 1d10 +8 Hit Points
+Heals 1k10 +8 Hit Points
 
 Waga: 1~
 @25998 = ~Ten ciężki korbacz składa się z żelaznego trzonka z trzema metalowymi rurami przymocowanymi do niego za pomocą czarnych żelaznych łańcuchów. Gdy trzyma się go w rękach, rury uderzają o siebie, jak gdyby poruszane wiatrem, i nic nie jest w stanie wyciszyć dźwięku korbacza. W czasie walki, rury uderzają o siebie z wielkim hukiem, stwarzając prawdopodobieństwo ogłuszenia trafionej ofiary.
@@ -7326,7 +7327,7 @@ Według legend, Czarne Dzwony były symbolem urzędu Dzwonnika osady, który mia
 
 PARAMETRY:
 
-Obrażenia: 1d6 +5
+Obrażenia: 1k6 +5
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -7336,7 +7337,7 @@ Special:
 - Penalty: -5 to Move Silently skill
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -7371,11 +7372,11 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Typ obrażeń: obuchowe
 Opóźnienie: 5
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -7396,7 +7397,7 @@ Waga: 25~
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -7404,7 +7405,7 @@ Special:
 - Considered a +1 weapon for purposes of hitting creatures
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -7416,7 +7417,7 @@ Rozłupywacz Baryłek został najpewniej sprzedany do Składu Kupieckiego Gallaw
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 Typ obrażeń: sieczne
 
 Special: 
@@ -7424,7 +7425,7 @@ Special:
   Slays Kegs
 
 Opóźnienie: 7
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -7445,7 +7446,7 @@ Special:
 - Wielder is immune to Disease when equipped
 
 Opóźnienie: 5
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -7458,7 +7459,7 @@ Gdy miasto Kuldahar było oblegane przez wielkie zło z Gór Grzbietu Świata w 
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -7466,7 +7467,7 @@ Special:
 - Cold Resistance: +10
 
 Opóźnienie: 3
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -7476,7 +7477,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 TraK0: +1 
 Typ obrażeń: kłute
 
@@ -7485,7 +7486,7 @@ Special:
 - For the purposes of hitting enchanted creatures this weapon is considered a +1 weapon
 
 Opóźnienie: 5
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -7542,7 +7543,7 @@ Gdy mieszkańcy mieściny przyszli nazajutrz zabrać ciało wojownika, znaleźli
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -7550,7 +7551,7 @@ Special:
  - Spell Power: Can cast Doom once
 
 Opóźnienie: 9
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -7583,7 +7584,7 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -7592,7 +7593,7 @@ Special:
   1% chance target is Silenced when struck
 
 Opóźnienie: 3
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -7730,14 +7731,14 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Typ obrażeń: kłute
 
 Special:
   Venom: 20% chance of +2 points of poison damage every second for 6 seconds, Fortitude for none
 
 Opóźnienie: 2
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -7997,7 +7998,7 @@ Special:
 - Speed: 2 attacks per combat round
 
 Opóźnienie: 9
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -8016,7 +8017,7 @@ Special:
 - Speed: 3 attacks per combat round
 
 Opóźnienie: 9
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -8089,7 +8090,7 @@ Niestety, w chwili gdy Delnar dokonywał ostatnich zabiegów magicznych na swoje
 
 PARAMETRY:
 
-Obrażenia: 1d3 +2
+Obrażenia: 1k3 +2
 TraK0: +2
 Typ obrażeń: pocisk
 
@@ -8099,7 +8100,7 @@ Special:
  - Returning: Returns to user
 
 Opóźnienie: 0
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 1~
@@ -8111,7 +8112,7 @@ Topór ten wyposażono także w dwa specjalne umagicznienia. Po udanym trafieniu
 
 PARAMETRY:
 
-Obrażenia: 1d10 +2
+Obrażenia: 1k10 +2
 TraK0: +2
 Typ obrażeń: sieczne 
 
@@ -8119,7 +8120,7 @@ Special:
  - Spell Process: 50% chance target succumbs to Fear (Will save)
  - Spell Process: 50% chance target is Slowed (Will save)
 
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Opóźnienie: 6
 Typ broni: 2-ręczna
 Wymagania:
@@ -8132,17 +8133,17 @@ Wyjec nie jest bronią subtelną i nie powinien być używany przy tajnych, wyma
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Damage Type (Melee): Slashing
 Damage Type (Thrown): Missile
 
 Special: 
- - Slashing: 50% chance of +1d6 Slashing damage
+ - Slashing: 50% chance of +1k6 Slashing damage
  - Spellward: Immunity to silence spells
  - Returning: Returns to user's hand once thrown
 
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Opóźnienie: 2
 Typ broni: 1-ręczna
 Wymagania:
@@ -8155,7 +8156,7 @@ Niewiadomo w jaki sposób pozbawiono topór właściwości magicznych, lecz nies
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: sieczne 
 
@@ -8164,7 +8165,7 @@ Special:
 - Spell Power: Can cast the spell Shadow Conjuration 1/day
 
 Opóźnienie: 5
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -8174,16 +8175,16 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
 Special: 
-- Crushing: 33% chance target takes +1d6 Crushing damage to the head
+- Crushing: 33% chance target takes +1k6 Crushing damage to the head
 - Spell Process: 20% chance target becomes Confused
 
 Opóźnienie: 4
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -8198,7 +8199,7 @@ PARAMETRY:
 Obrażenia: +3 (Missile)
 TraK0: +1
 Opóźnienie: 8
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -8214,7 +8215,7 @@ Uderzenie w głowę okazało się dosyć poważne, dlatego też Dullcobble zyska
 
 PARAMETRY:
 
-Obrażenia: 1d6 + 1
+Obrażenia: 1k6 + 1
 TraK0: +1
 Damage Type (Melee): Crushing
 Damage Type (Thrown): Missile
@@ -8224,7 +8225,7 @@ Special:
 
 Speed Factor (Melee): 4
 Speed Factor (Thrown): 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -8254,7 +8255,7 @@ Special:
 - Half again the range of a normal bow
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -8264,7 +8265,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 TraK0: +1
 Damage Type (Thrown): Missile
 Damage Type (Melee): Piercing
@@ -8274,7 +8275,7 @@ Special:
 
 Opóźnienie: 1 (Missile)
 Opóźnienie: 2 (Melee)
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -8286,7 +8287,7 @@ Z nieznanego nikomu powodu, gdy buława znajduje się w lewej ręce swego właś
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -8294,7 +8295,7 @@ Special:
 - Create one gold piece 1/day
 
 Opóźnienie: 6
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -8304,7 +8305,7 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -8312,7 +8313,7 @@ Special:
 - Spellward: Wielder immune to Blindness
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -8322,11 +8323,11 @@ Waga: 8~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: kłute/Slashing
 Opóźnienie: 7
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -8338,11 +8339,11 @@ Gdy w końcu odnalazł Czarnego Wilka, Kresselack potraktował go pogardliwie, t
 
 PARAMETRY:
 
-Obrażenia: 2d4 +2
+Obrażenia: 2k4 +2
 TraK0: +2
 Typ obrażeń: sieczne
 Opóźnienie: 6
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -8354,11 +8355,11 @@ Po wyciągnięciu z pochwy widać szeroką podstawę miecza, która zwęża się
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +2
 Typ obrażeń: kłute
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -8386,16 +8387,16 @@ Ostrze tego noża wykute zostało z czarnej stali i wykonano je w taki sposób, 
 
 PARAMETRY:
 
-Obrażenia: 1d4
+Obrażenia: 1k4
 Damage Type (Thrown): Missile
 Damage Type (Melee): Piercing
 
 Special:
-- Barbed: +1d6 additional slashing damage
+- Barbed: +1k6 additional slashing damage
 - Returning: Returns to user
 
 Opóźnienie: 2
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -8407,7 +8408,7 @@ Sulo kazał przymocować sobie sztylet na miejsce odciętej dłoni, w miejscu gd
 
 PARAMETRY:
 
-Obrażenia: 1d4 
+Obrażenia: 1k4 
 TraK0: -2 penalty
 Typ obrażeń: kłute
 
@@ -8415,7 +8416,7 @@ Special:
 - Missile Resistance: +3 
 
 Opóźnienie: 3
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -8429,7 +8430,7 @@ Każdy cios zadany Młotem Męstwa niesie ze sobą szansę na pozbawienie nieprz
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -8437,7 +8438,7 @@ Special:
 - Strike Terror: 33% chance target flees in fear (save vs Will)
 
 Opóźnienie: 2
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -8451,14 +8452,14 @@ Ciało Beliba zostało wreszcie zabrane do świątyni i wskrzeszone przez dobrod
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
-- Flaming Burst: +2d6 fire damage and 10% chance of +1d10 extra fire damage
+- Flaming Burst: +2d6 fire damage and 10% chance of +1k10 extra fire damage
 
 Opóźnienie: 4
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -8474,17 +8475,17 @@ Topór ten jest niezwykle duży i jedynie krótkie stylisko oraz sposób wyważe
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Damage Type (Thrown): Missile
 Damage Type (Melee): Slashing
 
 Special:
-- Doom-Edged: 1d6 additional slashing damage
+- Doom-Edged: 1k6 additional slashing damage
 - Returning: returns to wielder's hand after being thrown
 
 Opóźnienie: 8
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 4
@@ -8533,7 +8534,7 @@ Wu Wei osiedlił się na wybrzeżu Zachodniego Śródziemia, gdzie prowadził sk
 
 PARAMETRY:
 
-Obrażenia: 1d6
+Obrażenia: 1k6
 Typ obrażeń: obuchowe
 
 Special:
@@ -8541,25 +8542,25 @@ Special:
      15% chance of poisoning struck target (Fortitude save)
       1% chance of poisoning wielder (Fortitude save)
  Flying Eight Darts:
-      5% chance of inflicting 1d4 Piercing damage
+      5% chance of inflicting 1k4 Piercing damage
  Iron Octopus:
-      5% chance of inflicting 1d8 Crushing damage
-      1% chance of inflicting 1d6 Crushing damage on wielder
+      5% chance of inflicting 1k8 Crushing damage
+      1% chance of inflicting 1k6 Crushing damage on wielder
  Sage Closes Fan: 
-     10% chance of inflicting 1d6 Piercing damage
-      1% chance of inflicting 1d4 Piercing damage on wielder
+     10% chance of inflicting 1k6 Piercing damage
+      1% chance of inflicting 1k4 Piercing damage on wielder
  Bothersome Child:
       5% chance of stunning struck target (Fortitude save)
  Double Happiness:
-     10% chance of inflicting 1d6 Crushing Damage
+     10% chance of inflicting 1k6 Crushing Damage
  Spitting Crone:
-      5% chance of inflicting 1d4 Acid damage
-      1% chance of inflicting 1d4 Acid damage on wielder
+      5% chance of inflicting 1k4 Acid damage
+      1% chance of inflicting 1k4 Acid damage on wielder
  Four Demon Hell Murder:
       1% chance of casting Slay Living on struck target
 
 Opóźnienie: 4
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -8651,7 +8652,7 @@ PARAMETRY:
 Armor Class: 4
 
 Special:
-- Retribution: 15% chance attacker suffers 1D6 cold damage per successful hit on wearer of Glacial Resilience (melee only)
+- Retribution: 15% chance attacker suffers 1k6 cold damage per successful hit on wearer of Glacial Resilience (melee only)
 
 Wymagania:
 – Siła: 8
@@ -8797,7 +8798,7 @@ Został on pierwotnie wykonany dla Pobożnego Dwelnara, wojownika, który miał 
 
 PPARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -8805,7 +8806,7 @@ Special:
 - Brilliant Energy: All attacks ignore targets shield and armor bonuses
 
 Opóźnienie: 5
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -8817,7 +8818,7 @@ Jest to sztylet przeznaczony do rzucania, który posiada klika magicznych właś
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +2
 Damage Type (Thrown): Missile
 Damage Type (Melee): Piercing
@@ -8827,7 +8828,7 @@ Special:
 - Venom: 50% chance of +2 points of poison damage every second for 6 seconds, Fortitude save for none
 
 Opóźnienie: 1
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -8839,7 +8840,7 @@ Ta magiczna laska pozwala właścicielowi na rzucanie zaklęcia Ochrona Przed Po
 
 PARAMETRY:
 
-Obrażenia: 1d8 +2
+Obrażenia: 1k8 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -8847,7 +8848,7 @@ Special:
 - Spell Power: Can cast Protection from Normal Missiles twice per day
 
 Opóźnienie: 2
-Proficiency Type: Quarterstaff
+Rodzaj biegłości: kij
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -8859,7 +8860,7 @@ Zew Burzy potrafi wezwać naturalną moc pioruna. Właściciel młota morze dwa 
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -8868,7 +8869,7 @@ Special:
 - Spell Power: Can cast the spell  Lightning Bolt once per day
 
 Opóźnienie: 2
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -8880,7 +8881,7 @@ Znanych jest wiele podobnych opowieści, lecz wiarygodność ich wszystkich jest
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: kłute
 
@@ -8889,7 +8890,7 @@ Special:
 - Hide skill: +10
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -8908,10 +8909,10 @@ TraK0: -4
 Typ obrażeń: brak
 
 Special:
-- Heals 1d4 points of damage per hit
+- Heals 1k4 points of damage per hit
 
 Opóźnienie: 5
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -8923,16 +8924,16 @@ Włócznia ta jest zabójcza w czasie walki. Jest to broń zadająca obrażenia 
 
 PARAMETRY:
 
-Obrażenia: 1d6 +2
+Obrażenia: 1k6 +2
 TraK0: +2
 Typ obrażeń: kłute
 
 Special: 
 - Wounding: Inflicts 1 additional point of damage per round for 10 rounds (Fortitude negates)
-- Vampiric: 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 3
-Proficiency Type: Spear
+Rodzaj biegłości: włócznia
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 5
@@ -8946,15 +8947,15 @@ Z broni mogą korzystać jedynie istoty złe. W ich rękach "Korbacz Veranona" z
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
 Special:
-- Flaming Burst: +1d6 fire damage and 10% chance of +1d10 extra fire damage (10% chance for each of the two heads)
+- Flaming Burst: +1k6 fire damage and 10% chance of +1k10 extra fire damage (10% chance for each of the two heads)
 
 Opóźnienie: 4
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -8966,7 +8967,7 @@ Była to kiedyś ulubiona broń kapłana Lathandera, lorda poranka, boga odnowy 
 
 PARAMETRY:
 
-Obrażenia: 2d4 +2
+Obrażenia: 2k4 +2
 TraK0: +2
 Typ obrażeń: obuchowe
 
@@ -8975,7 +8976,7 @@ Special:
 - Spell Power: Can cast Cure Critical Wounds once per day
 
 Opóźnienie: 5
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 11
@@ -9032,7 +9033,7 @@ Waga: 30~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +1
+Obrażenia: 1k8 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -9040,7 +9041,7 @@ Special:
 - Spell Power: Can cast the spell Goodberry 1/day
 
 Opóźnienie: 4
-Proficiency Type: Scimitar/Wakizashi/Ninjato
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -9058,7 +9059,7 @@ Kiedy Dzielny Lodur powrócił do twierdzy krasnoludów, aby odebrać swój mło
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -9066,7 +9067,7 @@ Special:
 - Disruption: All undead and outsiders hit by weapon must make a Fortitude or be destroyed
 
 Opóźnienie: 8
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -9084,7 +9085,7 @@ Nie ma zgody co do zakończenia tej historii. Niektórzy twierdzą, że Roa rów
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -9092,7 +9093,7 @@ Special:
   33% chance of +2 Strength on wielder when struck (non cumulative)
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -9105,7 +9106,7 @@ Gdy magiczne kryształy uderzą w cel, zaczynają wibrować i wydawać odgłos z
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: obuchowe
 
@@ -9115,7 +9116,7 @@ Special:
 - 33% chance to deafen bearer when a target is struck (Fortitude save)
 
 Opóźnienie: 6
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -9133,7 +9134,7 @@ Jeśli wojownik będzie posiadaczem "Gniewu" oraz jego sióstr - "Nienawiści" i
 
 PARAMETRY:
 
-Obrażenia: 2d4 +1
+Obrażenia: 2k4 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -9142,7 +9143,7 @@ Special:
 - Wrathful Blood: 25% of casting Blood Rage on the wielder each time he or she is wounded (melee only)
 
 Opóźnienie: 7
-Proficiency Type: Bastard Sword
+Rodzaj biegłości: miecz półtoraręczny
 Typ broni: 1-ręczna"
 Wymagania:
 – Siła: 11
@@ -9171,16 +9172,16 @@ Błękitne berło przyciąga i zbiera moc dobroci, używając tej energii, aby z
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Typ obrażeń: obuchowe
 
 Special:
-- Sacred: +1d6 damage to evil creatures
+- Sacred: +1k6 damage to evil creatures
 - Invigoration: +5 Max Hit Points when equipped
 
 Opóźnienie: 5
-Proficiency Type: Mace
+Rodzaj biegłości: wekiera
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -9192,7 +9193,7 @@ Są jednak pogłoski mówiące, że w starożytnej i tajemnej świątyni zwanej 
 
 PARAMETRY:
 
-Obrażenia: 1d8 +4
+Obrażenia: 1k8 +4
 TraK0: +2
 Typ obrażeń: sieczne
 
@@ -9200,7 +9201,7 @@ Special:
 - Blade of Gleaming Dykhast: 1% chance to blind target (Fortitude save negates)
 
 Opóźnienie: 6
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -9212,7 +9213,7 @@ Zabójcy zwykle używają tej broni, aby złapać cel w jedwabny kokon, a nastę
 
 PARAMETRY:
 
-Obrażenia: 1d6 +1
+Obrażenia: 1k6 +1
 TraK0: +1
 Typ obrażeń: kłute
 
@@ -9221,7 +9222,7 @@ Special:
 - Lolth's Curse: 33% chance to Web target
 
 Opóźnienie: 2
-Proficiency Type: Short Sword
+Rodzaj biegłości: miecz krótki
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -9304,10 +9305,10 @@ Waga: 5~
 
 PARAMETRY:
 
-Obrażenia: 1d8
+Obrażenia: 1k8
 Typ obrażeń: sieczne
 Opóźnienie: 7
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -9317,13 +9318,13 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 Typ obrażeń: pocisk (Thrown)
 Typ obrażeń: obuchowe (Melee)
 Speed Factor (Thrown): 3
 Speed Factor (Melee): 4
 
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -9416,7 +9417,7 @@ Saablik Tan zawsze trzyma "Kieł Xvimiana" blisko przy sobie, nie tylko dla tego
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +3
 Typ obrażeń: kłute
 
@@ -9425,7 +9426,7 @@ Special:
 - Intelligence: +2
 
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -9437,7 +9438,7 @@ Oczywiście, Pudu nie mógł zadowolić się zwykłą halabardą, więc zlecił 
 
 PARAMETRY:
 
-Obrażenia: 1d10 +3
+Obrażenia: 1k10 +3
 TraK0: +3
 Typ obrażeń: kłute
 
@@ -9446,7 +9447,7 @@ Special:
 - Flaming Burst: 50% chance each hit does +2d6 fire damage and 10% chance of +2d10 extra fire damage
 
 Opóźnienie: 6
-Proficiency Type: Halberd
+Rodzaj biegłości: halabarda
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 13
@@ -9458,7 +9459,7 @@ Małpia Łapa Dyscypliny wygląda dokładnie tak, jak się nazywa. Składa się 
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
@@ -9468,7 +9469,7 @@ Special:
 - Spell Process: 5% chance of casting the spell Confusion on target per hit.
 
 Opóźnienie: 1
-Proficiency Type: Club
+Rodzaj biegłości: maczuga
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 5
@@ -9480,7 +9481,7 @@ Waga: 3~
 
 PARAMETRY:
 
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
@@ -9491,7 +9492,7 @@ Special:
 - Cursed: Can only be removed by a 'Remove Curse' spell
 
 Opóźnienie: 4
-Proficiency Type: Flail/Morning Star
+Rodzaj biegłości: cep bojowy/morgensztern
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 13
@@ -9505,7 +9506,7 @@ Za każdym razem, gdy Brutai Mar korzystał z młota w czasie walki, odczuwał z
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +3
 Typ obrażeń: obuchowe
 
@@ -9515,7 +9516,7 @@ Special:
 - Strength: +2
 
 Opóźnienie: 1
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 9
@@ -9536,7 +9537,7 @@ Pochodzenie miecza nie jest do końca znane. Jedynie arystokraci Mulhorandi prze
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -9544,7 +9545,7 @@ Special:
 - Bane: +3 Attack Bonus vs Humans and +2d6+3 Damage Bonus vs Humans
 
 Opóźnienie: 9
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -9569,7 +9570,7 @@ PARAMETRY:
 Obrażenia: +2 (Missile)
 TraK0: +2 
 Opóźnienie: 4
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -9586,7 +9587,7 @@ Special:
 - Cold Resistance: +5
 
 Opóźnienie: 6
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -9599,7 +9600,7 @@ PARAMETRY:
 Obrażenia: +3 (Missile)
 TraK0: +3 
 Opóźnienie: 0
-Proficiency Type: Shortbow
+Rodzaj biegłości: krótki łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 3
@@ -9612,7 +9613,7 @@ PARAMETRY:
 Obrażenia: +3 (Missile)
 TraK0: +3
 Opóźnienie: 3
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 6
@@ -9636,7 +9637,7 @@ PARAMETRY:
 
 Obrażenia: +2 (Missile)
 Opóźnienie: 8
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -9649,7 +9650,7 @@ PARAMETRY:
 Obrażenia: +2 (Missile)
 TraK0: +2 
 Opóźnienie: 3
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -9662,7 +9663,7 @@ PARAMETRY:
 Obrażenia: +3 (Missile)
 TraK0: +1 
 Opóźnienie: 7
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -9675,7 +9676,7 @@ PARAMETRY:
 Obrażenia: +3 (Missile)
 TraK0: +3 
 Opóźnienie: 2
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 8
@@ -9692,7 +9693,7 @@ Special:
 - Dexterity: +1
 
 Opóźnienie: 5
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -9702,7 +9703,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d3 +1
+Obrażenia: 1k3 +1
 TraK0: +1
 
 Special: 
@@ -9710,7 +9711,7 @@ Special:
 
 Typ obrażeń: pocisk
 Opóźnienie: 1
-Proficiency Type: Dart
+Rodzaj biegłości: strzałka
 Typ broni: 1-ręczna
 
 Waga: 0~
@@ -9718,7 +9719,7 @@ Waga: 0~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +1
+Obrażenia: 1k10 +1
 TraK0: +1
 Typ obrażeń: sieczne
 
@@ -9726,7 +9727,7 @@ Special:
 - Keen: Increases chance of scoring a critical hit
 
 Opóźnienie: 8
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 10
@@ -9736,7 +9737,7 @@ Waga: 20~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3
 Typ obrażeń: sieczne
 
@@ -9744,7 +9745,7 @@ Special:
 - Keen: Increases chance of scoring a critical hit
 
 Opóźnienie: 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -9796,7 +9797,7 @@ PARAMETRY:
 Obrażenia: +3 (Missile)
 TraK0: +3
 Opóźnienie: 3
-Proficiency Type: Sling
+Rodzaj biegłości: proca
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 3
@@ -9878,7 +9879,7 @@ A jeśli twoje serce jest szczere, być może ponownie ocalisz tę ziemię przed
 
 PARAMETRY:
 
-Obrażenia: 1d8 +5
+Obrażenia: 1k8 +5
 TraK0: +5
 Typ obrażeń: sieczne
 
@@ -9888,7 +9889,7 @@ Special:
 - Spell Power: Can cast the spell Dispel Magic, No Limit per Day
 
 Opóźnienie: 0
-Proficiency Type: Long Sword
+Rodzaj biegłości: miecz długi
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -9960,7 +9961,7 @@ PARAMETRY:
 Obrażenia: +6 (Missile)
 TraK0: +6 
 Opóźnienie: 2
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 16
@@ -10023,7 +10024,7 @@ PARAMETRY:
 Obrażenia: +6 (Missile)
 TraK0: +4 
 Opóźnienie: 8
-Proficiency Type: Crossbow
+Rodzaj biegłości: kusza
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 12
@@ -10152,19 +10153,19 @@ Waga: 10~
 PARAMETRY:
 
 Special: Balance
- Obrażenia: 1d8 +3
+ Obrażenia: 1k8 +3
  TraK0: +3
 
 Special: Power
- Obrażenia: 1d8 +6
+ Obrażenia: 1k8 +6
 
 Special: Accuracy
- Obrażenia: 1d8
+ Obrażenia: 1k8
  TraK0: +6
 
 Typ obrażeń: sieczne
 Opóźnienie: 4
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -10174,18 +10175,18 @@ Waga: 7~
 
 PARAMETRY:
 
-Obrażenia: 1d8 +3
+Obrażenia: 1k8 +3
 TraK0: +3
 Typ obrażeń: sieczne
 
 Special:
 - Cursed: This item requires a Remove Curse spell to be unequipped
 - Willpower: +1 bonus
-- Vampiric: 1d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 1k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 - Insanity: 15% chance wielder and/or target will become berserk. +2 STR, +10HP, hit points hidden for the duration of the insanity
 
 Opóźnienie: 3
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 10
@@ -10198,7 +10199,7 @@ Przez wiele lat ta dawno zapomniana broń wisiała na ścianie klanu Wytapiaczy 
 PARAMETRY:
 
 Thrown:
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: Elektryzujące
 
@@ -10209,12 +10210,12 @@ Special:
 Opóźnienie: 1
 
 Melee:
-Obrażenia: 1d6 +3
+Obrażenia: 1k6 +3
 TraK0: +3
 Typ obrażeń: sieczne
 Opóźnienie: 2
 
-Proficiency Type: Axe
+Rodzaj biegłości: topór
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 4
@@ -10225,12 +10226,12 @@ Waga: 4~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Damage Type (Thrown): Missile
 Damage Type (Melee): Crushing
 Opóźnienie: 2
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -10248,15 +10249,15 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d10 +5
+Obrażenia: 1k10 +5
 TraK0: +5
 Typ obrażeń: sieczne
 
 Special:
-- Vampiric: 2d4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
+- Vampiric: 2k4 hit points drained from target and temporarily added to wielder (Fortitude save for none)
 
 Opóźnienie: 5
-Proficiency Typ broni: 2-ręczna Sword
+Rodzaj biegłości: miecz oburęczny
 Typ broni: 2-ręczna
 Wymagania:
 – Siła: 14
@@ -10266,12 +10267,12 @@ Waga: 12~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +2
+Obrażenia: 1k4 +2
 TraK0: +1
 Damage Type (Thrown): Missile
 Damage Type (Melee): Crushing
 Opóźnienie: 2
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -10281,12 +10282,12 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +2
 Damage Type (Thrown): Missile
 Damage Type (Melee): Crushing
 Opóźnienie: 1
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -10296,12 +10297,12 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +4
+Obrażenia: 1k4 +4
 TraK0: +3
 Damage Type (Thrown): Missile
 Damage Type (Melee): Crushing
 Opóźnienie: 0
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -10311,12 +10312,12 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +5
+Obrażenia: 1k4 +5
 TraK0: +4
 Damage Type (Thrown): Missile
 Damage Type (Melee): Crushing
 Opóźnienie: 0
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -10385,7 +10386,7 @@ Waga: 1~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +1
+Obrażenia: 1k4 +1
 Damage Type (Thrown): Missile
 Damage Type (Melee): Crushing
 
@@ -10393,7 +10394,7 @@ Special:
 - Returning: Returns to user's hand once thrown
 
 Opóźnienie: 3
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -10403,17 +10404,17 @@ Waga: 2~
 
 PARAMETRY:
 
-Obrażenia: 1d4 +3
+Obrażenia: 1k4 +3
 TraK0: +2
 Damage Type (Thrown): Missile
 Damage Type (Melee): Crushing
 
 Special:
   Returning: Returns to user's hand once thrown
-  Shock: +1d6 electrical damage
+  Shock: +1k6 electrical damage
 
 Opóźnienie: 1
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
 – Siła: 6
@@ -10964,7 +10965,7 @@ Saving Throw: None
 
 This spell summons forth a silent, weightless sword-like construct made of moonlight that extends 4 feet from the caster's hand.  The moonblade is considered a +4 weapon for determining what creatures it can damage, though the bonus does not apply to attack bonus.  In addition, due to the insubstantial nature of the moonblade, melee bonuses from strength do not apply.
 
-The strike of a moonblade drains a target's vitality, inflicting 1d12+4 points of damage, and an additional 1d12 points to undead, who are particularly susceptible.  A successful strike also temporarily scrambles magic, causing any spells the target casts in the next round to fail.~
+The strike of a moonblade drains a target's vitality, inflicting 1k12+4 points of damage, and an additional 1k12 points to undead, who are particularly susceptible.  A successful strike also temporarily scrambles magic, causing any spells the target casts in the next round to fail.~
 
 @70820 = ~Wall of Moonlight~
 @70821 = ~Wall of Moonlight
@@ -11226,7 +11227,7 @@ PARAMETRY:
 TraK0: +3
 Obrażenia: +2
 Opóźnienie: 5
-Proficiency Type: Longbow
+Rodzaj biegłości: długi łuk
 Typ broni: 2-ręczna
 Wymagania:
  6 Strength
@@ -11266,9 +11267,9 @@ Waga: 3~
 PARAMETRY:
 
 TraK0: +2
-Obrażenia: 1d4+2 (piercing)
+Obrażenia: 1k4+2 (piercing)
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
  3 Strength
@@ -11280,9 +11281,9 @@ Waga: 1~
 PARAMETRY:
 
 TraK0: +2
-Obrażenia: 1d6+2 (piercing)
+Obrażenia: 1k6+2 (piercing)
 Opóźnienie: 0
-Proficiency Type: Dagger
+Rodzaj biegłości: sztylet
 Typ broni: 1-ręczna
 Wymagania:
  3 Strength
@@ -11294,10 +11295,10 @@ Waga: 2~
 PARAMETRY:
 
 TraK0: +2
-Obrażenia: 1d4+3, +1 electrical damage
+Obrażenia: 1k4+3, +1 electrical damage
 Typ obrażeń: obuchowe
 Opóźnienie: 2
-Proficiency Type: War Hammer
+Rodzaj biegłości: młot bojowy
 Typ broni: 1-ręczna
 Wymagania:
  9 Strength
